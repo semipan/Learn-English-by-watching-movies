@@ -304,5 +304,158 @@ do my math homework?你能帮我写数学作业吗？
 
 75. Belong v. 适应，归属
 
-    
 
+## S1.E2 Home Sweet Home-School
+
+### 1.Storyline
+
+Eddie hoped straight AAs would get their demanding parents off the boys' back, but lacking an honors program to 'challenge them properly', Jessica insists on tutoring. Given there's no private school around and her stingy meddling drives staff and clients crazy in the restaurant, Louis suggests she tutors them privately at home. However things don't go perfectly at the now too liberally run restaurant, especially with non-paying runners, and Jessica smells a rat on both fronts.
+
+### 2.Notes
+
+#### 2.1.使用短语
+
+1. There we go 好了，就这样，就这么办；用于表示完成某个任务或解决某个问题
+2. Tighten up 收紧；变得更加严格或有效
+3. Rip off 裂开；轻松取得
+4. Bring it 行动起来
+5. I beg to differ 我不敢苟同
+6. Make up 编造
+7. As soon as 一......就......
+8. Bear with 请耐心等待
+9. Rough patch 困难时期
+10. Dine and dash 霸王餐；吃完饭后逃跑
+11. Kick out 踢出
+12. Break even 收支平衡，打平；不赔不赚
+13. Chip in 捐款；集资；出钱
+14. Shut down 停工；关闭
+15. Let up on 对待某人更宽容；减少对某物的压力
+16. Flip through 快速翻阅
+17. Revert back to 恢复到原来的状态或位置；回到之前的状态
+
+#### 2.2.俚语
+
+1. Rat n. <非正式>卑鄙小人（尤指欺诈或变节者）；耗子
+2. On the same page 是一个常用的俚语,意思是两个或多个人在想法、计划、目标等方面达成了一致,意见相同,处于同一水平或状态。
+3. Nerd <非正式>缺乏社交能力者，书呆子
+
+#### 2.3.品牌
+
+1. Jukebox 自动唱机
+
+#### 2.4.专用词
+
+
+
+#### 2.5.经典对白
+
+1. You play the cards you're dealt. 在生活的牌局中,发给你什么牌你就打什么牌. 含义是:在生活中要接受你所无法改变的,但可以改变你能改变的
+
+
+
+#### 2.6.食物
+
+
+
+#### 2.7.人物
+
+
+
+#### 2.8.地名
+
+1. Trinidad n. 特立尼达
+
+
+
+### 3.思考
+
+3.1.
+
+### 4.生词
+
+1. Demand v. 强烈要求
+2. Lack v. 缺乏
+3. Properly adv. 正确地，得体地，适当地
+4. Insist v. 坚决要求
+5. Tutor v. 教导
+6. Stingy adj. 吝啬的
+7. Meddling n. 干预，吓管
+8. Drive v.  驾车送人；迫使，驱使
+9. Suggest v. 提议；推荐
+10. Liberally adv. 大方地；自由地
+11. Terrify v. 使害怕，使恐惧
+12. Immediate adj. 立刻的，紧迫的
+13. Sticker n. （有图或文字的）粘贴标签，贴纸
+14. Proceed v. 开始行动，进行，继续做
+15. Lick v. 舔
+16. Authority n. 专家，权威人士
+17. Aware adj. 明白的，察觉到的，意识到的
+18. Precaution n. 预防措施
+19. Anniversary n. 周年纪念（日）
+20. Literally adv. 真正地；按照字面意义地
+21. Sprig n. 小枝
+22. Parsley n. 欧芹
+23. Garnish n. 配菜，装饰品
+24. Incredible adj. 不可思议的
+25. Profit n. 利润，盈利
+26. Clog v. 堵塞
+27. Crouton n. 油煎面包块
+28. Crunch n. 压碎声，碎裂声
+29. Dissolve v. 溶解，解散，化解
+30. Forgery n. 伪造
+31. Rookie n. 新手，新秀
+32. Hamper n. 带盖大篮子
+33. Trash n. 垃圾
+34. Foster v. 促进，培养
+35. Leprechaun n. (爱尔兰民间传说中的)小妖精
+36. Distraction n. 使人分心的事物；干扰
+37. Trick n. 花招；把戏；<非正式>嫖客
+38. Innocence n. 天真；纯真
+39. Reinforce v. 强化，加强，加固
+40. Stick n. 枯枝，枝条；条状物
+41. Napkin n. 餐巾纸
+42. Tie v. 系，扎，捆
+43. Slippery adj. 湿滑的
+44. Slope n. 斜坡，斜面；山坡
+45. Pop v. （使）发出砰的响声
+46. Wheel n. 轮子
+47. Oven n. 烤炉
+48. Puzzle v. 使困惑
+49. Crisis n. 危机
+50. Awkward adj. 令人尴尬的
+51. Infraction n. 犯规，违法行为
+52. Deal v. 应对（难缠的人，困难局面）
+53. Trampoline n. 蹦床
+54. Inappropriately adv. 不适当地
+55. Matronly adj. 主妇似的
+56. Chubby adj. 圆胖的，丰满的
+57. Sacrifice n. 牺牲；献祭
+58. Whiz n. 飕飕声
+59. Criticism n. 批评
+60. Jukebox 自动唱机
+61. Whisk v. 拂，掸；搅动
+62. Struggle v. 奋斗，努力
+63. Awful adj. 让人讨厌的，糟糕的；不舒服的
+64. Excuse n. 借口
+65. Workload n. 工作量
+66. Realize v. 意识到，认识到
+67. Booth n. 电话亭；摊位；（隔开的）小间
+68. Rent n. 租金
+69. Slander n. 诽谤，诋毁
+70. Tough adj. 坚固的；固执的；强硬的
+71. Emotion n. 情绪；情感
+72. Inherently adv. 内在地，固有地
+73. Pump v. 用泵输送；快速上下
+74. Sneaker n. <美>球鞋，运动鞋
+75.  Appreciate v. 欣赏；理解；感激
+76. Admire v. 钦佩；欣赏
+77. Faith n. 信任，信心，信念
+78. Tutor v. 指导，辅导
+79. Flip v. 快速翻转；快速翻阅
+80. Sappy adj. 愚笨的
+81. Academic adj. 学术的
+82. Scholarship n. 奖学金
+83. Indicate v. 表明；象征
+84. Participatory adj. 参与式的
+85. Intensity n. 强烈，剧烈
+86. Hue n. 颜色，色调
