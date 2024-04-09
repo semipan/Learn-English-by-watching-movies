@@ -313,7 +313,7 @@ Eddie hoped straight AAs would get their demanding parents off the boys' back, b
 
 ### 2.Notes
 
-#### 2.1.使用短语
+#### 2.1.实用短语
 
 1. There we go 好了，就这样，就这么办；用于表示完成某个任务或解决某个问题
 2. Tighten up 收紧；变得更加严格或有效
@@ -459,3 +459,153 @@ Eddie hoped straight AAs would get their demanding parents off the boys' back, b
 84. Participatory adj. 参与式的
 85. Intensity n. 强烈，剧烈
 86. Hue n. 颜色，色调
+
+## S1.E3 The Shunning
+
+### 1.Storyline
+
+Louis urges the family to make new friends at a neighborhood block party. Eddie tries to earn respect in the neighborhood.
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. Fit in 适应，融入
+2. Hang out 闲逛
+3. Look forward to 期待，期望
+4. Broken record 重复的话语或经历；坏了的唱片
+5. Give out 分发
+6. Turn to 求助于
+7. Even if 即使，尽管
+8. Lean on 依靠，施加压力于
+9. Split up 分手，分开 
+10. Find out 查明，发现
+11. Speed over to 转到
+12. Over there 在那里
+13. Check this out 看看这个
+14. I don't get it 我没有明白
+15. Feel up to 有信心能够做某事
+16. Home-wrecking 破坏家庭的
+17. You got it  没问题；不用谢；你说对了，成交
+18. Watch out 当心，小心
+19. Turn out to be 最终变成，结果是
+20. Even though 尽管，虽然
+
+#### 2.2.Slang
+
+1. Jerk n. 傻瓜，坏蛋
+2. Yikes （非正式）呀（表示惊讶）
+3. Nope 不
+4. Butt n. 屁股
+
+#### 2.3.Brand
+
+1. Capri sun 卡普里阳光，一种常见的果汁饮料品牌，以其独特的铝箔包装和吸管而闻名
+
+#### 2.4.Special words
+
+1. ***Block party*** - 街区聚会或街头聚会是由一个社区的许多成员聚集在一起的聚会，目的是为了观察某个重要事件，或者仅仅是为了相互团结和享受。名称来自聚会的形式，通常涉及封闭整个城市街区，以禁止车辆通行或仅封闭一条街道。很多时候，都会以玩音乐，游戏，跳舞和爆米花机和烧烤等食物的活动形式举行庆祝活动。
+2. ***NASCAR*** - **NASCAR即全国运动汽车竞赛（National Association for Stock Car Auto Racing）的简称**；这个比赛，每年吸引了超过1.5亿人次现场观众观看比赛，电视收视率更是远远超过棒球、篮球和橄榄球等体育运动，因此有人称它为美国人的“F1”比赛。
+3. ***The Daytona 500*** - Daytona和NASCAR有着很深的渊源，或者说NASCAR这项汽车赛事就起源于佛罗里达州Daytona这个地方。上世纪三四十年代美国南方还处在禁酒令时期，私酒贩子常常驾驶飞车在乡间小路上飞驰。为了躲避联邦税务稽查员的追捕，他们想方设法地增大汽车马力、改造汽车结构以使车子更快、操控更好，更容易地逃脱追捕。酒贩子们之间为了比较谁的车跑得快、谁的车技好，就在美国佛州Daytona海滩进行第一次汽车比赛，随后演变成一项真正的汽车赛事，这就是NASCAR的前身。**1959年，首届Daytona 500比赛举行，从1982年开始，它就一直是NASCAR系列赛的揭幕战**，同时，它也是NASCAR旗下最负盛名的比赛之一，更是每年所有汽车比赛中收视率最高的，堪称**赛车界的超级杯**。
+4. ***Adult section*** - 成人区：指商店，图书馆，电影院等公共场所中专门供成年人使用的区域。
+5. Prom - （美国高中生在学年末举行的）正式舞会
+
+#### 2.5.Classic conversation
+
+1. 'Cause real life isn't a rap video.
+2. Love is tricky.
+3. You're just saying that 'cause you never been in love.
+4. It's like everything goes in slow motion. And you feel this pain in your heart.  It's a good pain --- the pain of cupid's arrow.
+
+#### 2.6.Food
+
+1. ***Tuna salad*** - 金枪鱼沙拉是由金枪鱼和蛋黄酱组成的沙拉菜肴。使用的金枪鱼通常是预先煮熟、罐装并用水或油包装。泡菜、芹菜、调味品和洋葱是受欢迎的添加成分。金枪鱼沙拉也经常单独食用，或者放在饼干、生菜、番茄或鳄梨上。可以加入切碎的煮鸡蛋。
+2. ***Skittle*** - 彩虹糖是一种果味糖果的品牌，目前由玛氏食品的子公司箭牌股份有限公司进行生产。彩虹糖有硬质糖衣，上面印有字母S。糖衣内容物主要是糖和玉米糖浆，还有食用氢化油、棕榈油，还包括果汁、柠檬酸、食用香料。 彩虹糖以不同的口味出售，如热带水果，或蓝莓等。 
+
+#### 2.7.People
+
+1. Ol' Dirty Bastard - 是黑帮饶舌派系中最具代表的集团Wu-Tang Clan中最具创意的鬼才，却也是最令乐团头痛，将警局当成自家后院般的时常来去，牢狱似乎当做邻居般的经常拜访作客，就连蹲劳都不忘创作，有必要时还得利用电话便捷的服务，跟他那帮音乐伙伴们联机录唱，这么一位天才型艺人，可真是反映出帮派/硬蕊饶舌界深具代表的恶名昭彰之象征。
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+1. ***Melrose place*** - Classic serial drama around a group of friends living in Melrose Place, California. -  https://www.imdb.com/title/tt0103491/
+2. ***Gremlins*** - A young man inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town. - https://www.imdb.com/title/tt0087363/
+3. Cop and a Half - A 12 year old girl who thinks she's a police officer joins forces with a real police officer to catch a criminal mastermind who has an army of drones that attack the public. - https://www.imdb.com/title/tt6212210/
+
+### 3.Thinking
+
+3.1.
+
+#### 4.New words
+
+1. Urge v. 敦促；竭力主张
+2. Shun v. （故意）避开，躲开
+3. Glamorous adj. 迷人的，富有魅力的
+4. Quite adv. 相当，完全地
+5. Prostitute n. (尤指妇女)卖淫者，娼妓
+6. Blend v. (使)混合，调和；（使）协调，融合
+7. Chameleon n. 变色龙
+8. Squish v. 压坏，压扁；挤进
+9. Bug n. <美>昆虫，虫子
+10. Stuck adj. 卡住的；陷入困境；被迫保留，不得不应付
+11. Seasonal adj. 季节性的
+12. Melon n. 瓜；瓜类植物
+13. Bacon n. 培根
+14. Enterprising adj. 有事业心的，有进取心的
+15. League n. 联盟
+16. Karaoke n. 卡拉OK
+17. Maintenance n. 维护，保养
+18. Although conj. 虽然，尽管
+19. Ultimate adj. 最终的，最后的；终极的
+20. Decide v. 判定，断定；决定
+21. Elaborate adj. 复杂的，详尽的
+22. Individual adj. 单独的；个人的
+23. Aspirin n. 阿司匹林
+24. Pleasant adj. 令人愉快的
+25. Promote v. 促进；促销，推广
+26. Representative n. 代表，代理人
+27. Buzz n. 嗡嗡声
+28. Rib n. 排骨，肋骨
+29. Afford v. 买不起，承担不起
+30. Barely adv. 勉强才能，刚刚，仅仅
+31. Symbol n. 象征，标志
+32. Fantasy n. 幻想，想象
+33. Hungover adj. 心里难受的
+34. Weird adj. 奇怪的，不寻常的
+35. Phase n. 阶段，时期
+36. Compliment n. 赞扬，称赞
+37. Treat v. 对待，看待
+38. Axe n. 斧子
+39. Maze n. 迷宫
+40. Ruin v. 毁坏，破坏
+41. Boycott v. 抵制
+42. Risk v. 冒......的危险
+43. Swing v. （使）摇摆
+44. Priority n. 优先事项
+45. Succeed v. 成功，达成
+46. Wasp n. 黄蜂
+47. Lotion n. 护肤液，洁肤液
+48. Burn n. 烧伤，灼伤
+49. Communism n.  共产主义
+50. Lyrics n. 歌词
+51. Sabotage v. 蓄意破坏
+52. Tug v. （用力地）拉，拖，拽
+53. Tumble v. 跌倒，倒塌，弄乱
+54. Deserve v. 值得，应受
+55. Stripper n. 脱衣舞演员；玻璃剂
+56. Lull n. 低谷期；暂时平静
+57. Unanimous adj. 全体同意的，无异议的
+58. Duet n. 二重唱
+59. Rodeo n. 竞技表演
+60. Cheek n.  脸颊
+61. Sensual adj. 感官的；肉欲的
+62. Chest n. 胸部，胸膛
+63. Grab v.  抓取
+64. Slut n. 荡妇
+65. Instant n. 片刻，瞬间
+66. Lawn n. 草坪
+67. Dart n. 飞镖
+68. Slip v. 滑落，溜走，摆脱
+69. Ambulance n. 急救车
