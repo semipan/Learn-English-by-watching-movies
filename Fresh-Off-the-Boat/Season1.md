@@ -8,7 +8,7 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 
 ### 2. Notes
 
-#### 2.1. 实用短语
+#### 2.1. Phrase
 
 1. Full on 全力以赴，全力投入
 2. Buy into 买入
@@ -33,7 +33,7 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 21. Someone else 别人
 22. In order to 为了，以便
 
-#### 2.2. 俚语
+#### 2.2. Slang
 
 1. Hell 俚语 直译是地狱的意思，但在对话中常用语加强语气，表示非常非常。比如：as hell 表示“很、非常、极其”；the hell 插入句中强调语气；What the hell? 搞神马飞机？；What the hell are you doing? 你TM在搞毛啊？
 2. Tiger mom 虎妈
@@ -48,13 +48,13 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 11. Chink “中国人”，1901年，带有贬义，可能源于 China，或者源于 chink（名词）与眼睛形状有关。
 12. Fishy 可疑地
 
-#### 2.3. 品牌
+#### 2.3. Brand
 
 1. 杰西潘尼(J.C.Penney) 由詹姆斯·潘尼 (James Penney) 于1902年创立于美国怀俄明州的矿区小镇，总部位于美国德州普兰诺。*JCPenney*(杰西潘尼)是全球500强企业之一，是一家拥有百年历史的大型零售企业，销售额名列同行业前茅。JCPenny百货公司的主要营业项目包括男装、女装、童装、玩具、休闲用品、珠宝。另外这一家公司还有二个与种不同的地方，一是它有属于自己的设计师群，每年都会发表领导流行的设计产品。另外它还有一个常年经营的折扣商品特卖区，提供给顾客便宜又良好的物品。
 2. SHAQ品牌是由传奇篮球巨星沙奎尔·奥尼尔（*Shaq*uille O'Neal）创立的运动品牌。
 3. Lunchables是卡夫食品的一个儿童方便套餐系列的名称。一个典型的 Lunchables套餐组合包括薄饼、肉、奶酪，还有披萨、汉堡包、热狗、三明治（sub）、玉米片（nachos）等等各种组合。
 
-#### 2.4. 专用词
+#### 2.4. Special words
 
 1. Soft opening 软开幕
 2. Comic sans 一种字体
@@ -62,7 +62,7 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 4. Bat mitzvah 成人礼
 5. Lactose intolerant 乳糖不耐受
 
-#### 2.5. 经典对白
+#### 2.5. Classic conversation
 
 1. That filthy music you listen to turned you into a poet
 
@@ -78,14 +78,14 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 
 3. if you don't know, now you know - *from The Notorious B.I.G.  Juicy*
 
-#### 2.6. 食物
+#### 2.6. Food
 
 1. String cheese 细绳奶酪
 2. Tortilla chip 墨西哥玉米片
 3. Margarita 玛格丽特鸡尾酒
 4. onion blossom 炸洋葱花
 
-#### 2.7. 人物
+#### 2.7. People
 
 1. 皮特·桑普拉斯（Pete Sampras），1971年8月12日出生于美国华盛顿哥伦比亚特区，前美国职业网球运动员、有史以来最好的草地球员之一、14届大满贯冠军得主。
 2. 芭芭拉·沃尔特斯*（Barbara Jill Walters，1929年8月25日-2022年12月）*，美国电视新闻历史上第一位女性联合主持人、尼克松首次访华团中唯一的女主播，采访过自尼克松以来每一位美国总统和第一夫人，五次获得艾美奖，当选过“历史上最伟大的流行文化偶像”、“20世纪最有影响力的妇女”。她见证甚至间接促成了无数历史事件与政治决定。
@@ -94,7 +94,11 @@ After the Huangs move to the suburbs in Orlando, Florida, they discover life is 
 5. 埃里克·帕特里克·克莱普顿（Eric Patrick Clapton,CBE），1945年3月30日出生于英国萨里，英国音乐人、歌手，作曲家、吉他手，曾获得18座格莱美奖，是20世纪最成功的音乐家之一，在摇滚名人堂里有三项成就。
 6. 图派克·夏库尔（Tupac Amaru Shakur，1971年6月16日–1996年9月13日），艺名为“2Pac”，出生于美国纽约曼哈顿，美国说唱歌手、词曲作者、演员、诗人。
 
-### 3. 思考
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3. Thinking
 
 #### 3.1. 为什么英语里没有书名号？
 
@@ -152,7 +156,7 @@ do my math homework?你能帮我写数学作业吗？
 
 当表达“叫”概念的时候，大家往往都会想到最基本的词汇 **scream**，这个单词较为常见，多指 **由于受到惊吓而发出的尖叫**。 **Yell**也指叫，但它所指代的是大叫，多指 **由于生气或担心而对某人大喊大叫**。 **Yelp**既可以用于 **对人和狗的叫声**，并且都是非常突然且短促的声音。 **Holler****强调发出声音发生的大。**
 
-### 4.生词
+### 4.New words
 
 1. Suburb n. 城郊，近郊
 
@@ -286,7 +290,7 @@ do my math homework?你能帮我写数学作业吗？
 
 66. Offense n.  违法，过错，<正式>攻击，冒犯
 
-67. Upset adj. 不高兴的，心烦意乱的
+67. Upset adj. 不高兴的，心烦意乱的，不安
 
 68. Defend v. 保卫，维护，为......辩解
 
@@ -309,156 +313,157 @@ do my math homework?你能帮我写数学作业吗？
 
 ### 1.Storyline
 
-Eddie hoped straight AAs would get their demanding parents off the boys' back, but lacking an honors program to 'challenge them properly', Jessica insists on tutoring. Given there's no private school around and her stingy meddling drives staff and clients crazy in the restaurant, Louis suggests she tutors them privately at home. However things don't go perfectly at the now too liberally run restaurant, especially with non-paying runners, and Jessica smells a rat on both fronts.
+Jessica thinks school must be too easy for the boys and gives them extra homework; Louis tries to get Jessica to ease up on her strict approach.
 
 ### 2.Notes
 
-#### 2.1.实用短语
+#### 2.1.Phrase
 
-1. There we go 好了，就这样，就这么办；用于表示完成某个任务或解决某个问题
-2. Tighten up 收紧；变得更加严格或有效
-3. Rip off 裂开；轻松取得
-4. Bring it 行动起来
-5. I beg to differ 我不敢苟同
-6. Make up 编造
-7. As soon as 一......就......
-8. Bear with 请耐心等待
-9. Rough patch 困难时期
-10. Dine and dash 霸王餐；吃完饭后逃跑
-11. Kick out 踢出
-12. Break even 收支平衡，打平；不赔不赚
-13. Chip in 捐款；集资；出钱
-14. Shut down 停工；关闭
-15. Let up on 对待某人更宽容；减少对某物的压力
-16. Flip through 快速翻阅
-17. Revert back to 恢复到原来的状态或位置；回到之前的状态
+1. Ease up on 对待某人更温和一些；减少对（某物）的压力
+2. There we go 好了，就这样，就这么办；用于表示完成某个任务或解决某个问题
+3. Tighten up 收紧；变得更加严格或有效
+4. Rip off 裂开；轻松取得
+5. Bring it 行动起来
+6. I beg to differ 我不敢苟同
+7. Make up 编造
+8. As soon as 一......就......
+9. Bear with 请耐心等待
+10. Rough patch 困难时期
+11. Dine and dash 霸王餐；吃完饭后逃跑
+12. Kick out 踢出
+13. Break even 收支平衡，打平；不赔不赚
+14. Chip in 捐款；集资；出钱
+15. Shut down 停工；关闭
+16. Let up on 对待某人更宽容；减少对某物的压力
+17. Flip through 快速翻阅
+18. Revert back to 恢复到原来的状态或位置；回到之前的状态
 
-#### 2.2.俚语
+#### 2.2.Slang
 
 1. Rat n. <非正式>卑鄙小人（尤指欺诈或变节者）；耗子
 2. On the same page 是一个常用的俚语,意思是两个或多个人在想法、计划、目标等方面达成了一致,意见相同,处于同一水平或状态。
 3. Nerd <非正式>缺乏社交能力者，书呆子
 
-#### 2.3.品牌
+#### 2.3.Brand
 
 1. Jukebox 自动唱机
 
-#### 2.4.专用词
+#### 2.4.Special words
 
 
 
-#### 2.5.经典对白
+#### 2.5.Classic conversation
 
 1. You play the cards you're dealt. 在生活的牌局中,发给你什么牌你就打什么牌. 含义是:在生活中要接受你所无法改变的,但可以改变你能改变的
 
-
-
-#### 2.6.食物
-
-
-
-#### 2.7.人物
+#### 2.6.Food
 
 
 
-#### 2.8.地名
+#### 2.7.People
+
+
+
+#### 2.8.Place
 
 1. Trinidad n. 特立尼达
 
+#### 2.9.Movies and TV series
 
-
-### 3.思考
+### 3.Thinking
 
 3.1.
 
-### 4.生词
+### 4.New words
 
-1. Demand v. 强烈要求
-2. Lack v. 缺乏
-3. Properly adv. 正确地，得体地，适当地
-4. Insist v. 坚决要求
-5. Tutor v. 教导
-6. Stingy adj. 吝啬的
-7. Meddling n. 干预，吓管
-8. Drive v.  驾车送人；迫使，驱使
-9. Suggest v. 提议；推荐
-10. Liberally adv. 大方地；自由地
-11. Terrify v. 使害怕，使恐惧
-12. Immediate adj. 立刻的，紧迫的
-13. Sticker n. （有图或文字的）粘贴标签，贴纸
-14. Proceed v. 开始行动，进行，继续做
-15. Lick v. 舔
-16. Authority n. 专家，权威人士
-17. Aware adj. 明白的，察觉到的，意识到的
-18. Precaution n. 预防措施
-19. Anniversary n. 周年纪念（日）
-20. Literally adv. 真正地；按照字面意义地
-21. Sprig n. 小枝
-22. Parsley n. 欧芹
-23. Garnish n. 配菜，装饰品
-24. Incredible adj. 不可思议的
-25. Profit n. 利润，盈利
-26. Clog v. 堵塞
-27. Crouton n. 油煎面包块
-28. Crunch n. 压碎声，碎裂声
-29. Dissolve v. 溶解，解散，化解
-30. Forgery n. 伪造
-31. Rookie n. 新手，新秀
-32. Hamper n. 带盖大篮子
-33. Trash n. 垃圾
-34. Foster v. 促进，培养
-35. Leprechaun n. (爱尔兰民间传说中的)小妖精
-36. Distraction n. 使人分心的事物；干扰
-37. Trick n. 花招；把戏；<非正式>嫖客
-38. Innocence n. 天真；纯真
-39. Reinforce v. 强化，加强，加固
-40. Stick n. 枯枝，枝条；条状物
-41. Napkin n. 餐巾纸
-42. Tie v. 系，扎，捆
-43. Slippery adj. 湿滑的
-44. Slope n. 斜坡，斜面；山坡
-45. Pop v. （使）发出砰的响声
-46. Wheel n. 轮子
-47. Oven n. 烤炉
-48. Puzzle v. 使困惑
-49. Crisis n. 危机
-50. Awkward adj. 令人尴尬的
-51. Infraction n. 犯规，违法行为
-52. Deal v. 应对（难缠的人，困难局面）
-53. Trampoline n. 蹦床
-54. Inappropriately adv. 不适当地
-55. Matronly adj. 主妇似的
-56. Chubby adj. 圆胖的，丰满的
-57. Sacrifice n. 牺牲；献祭
-58. Whiz n. 飕飕声
-59. Criticism n. 批评
-60. Jukebox 自动唱机
-61. Whisk v. 拂，掸；搅动
-62. Struggle v. 奋斗，努力
-63. Awful adj. 让人讨厌的，糟糕的；不舒服的
-64. Excuse n. 借口
-65. Workload n. 工作量
-66. Realize v. 意识到，认识到
-67. Booth n. 电话亭；摊位；（隔开的）小间
-68. Rent n. 租金
-69. Slander n. 诽谤，诋毁
-70. Tough adj. 坚固的；固执的；强硬的
-71. Emotion n. 情绪；情感
-72. Inherently adv. 内在地，固有地
-73. Pump v. 用泵输送；快速上下
-74. Sneaker n. <美>球鞋，运动鞋
-75.  Appreciate v. 欣赏；理解；感激
-76. Admire v. 钦佩；欣赏
-77. Faith n. 信任，信心，信念
-78. Tutor v. 指导，辅导
-79. Flip v. 快速翻转；快速翻阅
-80. Sappy adj. 愚笨的
-81. Academic adj. 学术的
-82. Scholarship n. 奖学金
-83. Indicate v. 表明；象征
-84. Participatory adj. 参与式的
-85. Intensity n. 强烈，剧烈
-86. Hue n. 颜色，色调
+1. Strict adj. 要求严格的，严厉的
+2. Approach n. 态度；接近；接洽
+3. Demand v. 强烈要求
+4. Lack v. 缺乏
+5. Properly adv. 正确地，得体地，适当地
+6. Insist v. 坚决要求
+7. Tutor v. 教导
+8. Stingy adj. 吝啬的
+9. Meddling n. 干预，吓管
+10. Drive v.  驾车送人；迫使，驱使
+11. Suggest v. 提议；推荐
+12. Liberally adv. 大方地；自由地
+13. Terrify v. 使害怕，使恐惧
+14. Immediate adj. 立刻的，紧迫的
+15. Sticker n. （有图或文字的）粘贴标签，贴纸
+16. Proceed v. 开始行动，进行，继续做
+17. Lick v. 舔
+18. Authority n. 专家，权威人士
+19. Aware adj. 明白的，察觉到的，意识到的
+20. Precaution n. 预防措施
+21. Anniversary n. 周年纪念（日）
+22. Literally adv. 真正地；按照字面意义地
+23. Sprig n. 小枝
+24. Parsley n. 欧芹
+25. Garnish n. 配菜，装饰品
+26. Incredible adj. 不可思议的
+27. Profit n. 利润，盈利
+28. Clog v. 堵塞
+29. Crouton n. 油煎面包块
+30. Crunch n. 压碎声，碎裂声
+31. Dissolve v. 溶解，解散，化解
+32. Forgery n. 伪造
+33. Rookie n. 新手，新秀
+34. Hamper n. 带盖大篮子
+35. Trash n. 垃圾
+36. Foster v. 促进，培养
+37. Leprechaun n. (爱尔兰民间传说中的)小妖精
+38. Distraction n. 使人分心的事物；干扰
+39. Trick n. 花招；把戏；<非正式>嫖客
+40. Innocence n. 天真；纯真
+41. Reinforce v. 强化，加强，加固
+42. Stick n. 枯枝，枝条；条状物
+43. Napkin n. 餐巾纸
+44. Tie v. 系，扎，捆
+45. Slippery adj. 湿滑的
+46. Slope n. 斜坡，斜面；山坡
+47. Pop v. （使）发出砰的响声
+48. Wheel n. 轮子
+49. Oven n. 烤炉
+50. Puzzle v. 使困惑
+51. Crisis n. 危机
+52. Awkward adj. 令人尴尬的
+53. Infraction n. 犯规，违法行为
+54. Deal v. 应对（难缠的人，困难局面）
+55. Trampoline n. 蹦床
+56. Inappropriately adv. 不适当地
+57. Matronly adj. 主妇似的
+58. Chubby adj. 圆胖的，丰满的
+59. Sacrifice n. 牺牲；献祭
+60. Whiz n. 飕飕声
+61. Criticism n. 批评
+62. Jukebox 自动唱机
+63. Whisk v. 拂，掸；搅动
+64. Struggle v. 奋斗，努力
+65. Awful adj. 让人讨厌的，糟糕的；不舒服的
+66. Excuse n. 借口
+67. Workload n. 工作量
+68. Realize v. 意识到，认识到
+69. Booth n. 电话亭；摊位；（隔开的）小间
+70. Rent n. 租金
+71. Slander n. 诽谤，诋毁
+72. Tough adj. 坚固的；固执的；强硬的
+73. Emotion n. 情绪；情感
+74. Inherently adv. 内在地，固有地
+75. Pump v. 用泵输送；快速上下
+76. Sneaker n. <美>球鞋，运动鞋
+77.  Appreciate v. 欣赏；理解；感激
+78. Admire v. 钦佩；欣赏
+79. Faith n. 信任，信心，信念
+80. Tutor v. 指导，辅导
+81. Flip v. 快速翻转；快速翻阅
+82. Sappy adj. 愚笨的
+83. Academic adj. 学术的
+84. Scholarship n. 奖学金
+85. Indicate v. 表明；象征
+86. Participatory adj. 参与式的
+87. Intensity n. 强烈，剧烈
+88. Hue n. 颜色，色调
 
 ## S1.E3 The Shunning
 
@@ -609,3 +614,146 @@ Louis urges the family to make new friends at a neighborhood block party. Eddie 
 67. Dart n. 飞镖
 68. Slip v. 滑落，溜走，摆脱
 69. Ambulance n. 急救车
+
+## S1.E4 Success Perm
+
+### 1.Storyline
+
+Eddie's cousin introduces him to hip-hop, while the family is visited by Jessica's sister.
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. Get away 离开
+2. Put up 搭建，放置
+3. All over 到处都是
+4. Fancy up 装饰
+5. Bust out 取出，拿出
+6. Trip down 回忆过去的美好时光
+7. Snap out of it 振作起来
+8. Put on 穿上
+9. Sniff out 嗅出
+10. Half off 半价
+11. Open up to 向某人敞开心扉
+12. Play out 表演到底，用尽，用完
+13. Get off to 离开某地开始旅程
+14. Freak out 崩溃，紧张害怕
+15. Here we go 我们开始吧
+16. Take out 拿出，提取
+17. Hung up 挂断
+18. As well as 和，以及，还有
+19. Ups and downs 起起落落
+20. Caught up 被困住；忙于；追赶上
+21. In the process 在过程中
+
+#### 2.2.Slang
+
+1. Bummer n.   <美>流浪汉，游手好闲的人
+2. Cashola n. 现金，钱（非正式用法）
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+1. Sometime you have to spend money you don't have to make it seem like you have money that you don't spend
+2. You'll get back on your feet.
+3. People aren't always what you seem
+
+#### 2.6.Food
+
+1. ***Twizzler*** - 是美剧里经常出现的一种糖果。在美国，Twizzlers 是一个很受欢迎，很普遍的甘草糖果品牌，和他同类型的糖果还有Red Vines。
+
+#### 2.7.People
+
+1. ***Kurt Russell*** - 库尔特·拉塞尔（Kurt Russell），1951年3月17日出生于美国马萨诸塞州斯普林菲尔德，美国男演员。
+
+#### 2.8.Place
+
+1. Seattle 西雅图
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
+
+1. Perm n. 烫发
+2. Brother-in-law n. 洁肤，妹夫；内弟，内兄
+3. Gloat vi. 幸灾乐祸
+4. Misfortune n. 厄运，不幸
+5. Suppose v. 推断，料想，猜想；假设，设想；预期，以...为条件
+6. Perk n. 额外收入，津贴
+7. Entertainment n. 娱乐
+8. Deluxe adj. 豪华
+9. Bother v. 费心；（使）烦恼
+10. Finalize v. 最后决定，敲定
+11. Swampland n. 沼泽地
+12. Cozy adj. 舒适的，温暖的
+13. Bitter adj. 味苦的，辛酸的，充满敌意的
+14. Passion n. 爱恋，情欲，激情
+15. Relative n. 亲戚，亲属；同类事物
+16. Wizard n. 巫师，奇才
+17. Fake adj. 伪造的
+18. Reflect v. 反射，反映
+19. Defendant n. 被告
+20. Present n. 现在，目前；礼物
+21. Counsel n. 忠告；辩护律师
+22. Seat v. 使坐下
+23. Psych v. （非正式）让（某人）心理上有准备
+24. Obsession n.  痴迷，困扰
+25. Crawl v. 爬行，匍匐前进
+26. Arrangement n. 安排，筹备
+27. Couch n. 长沙发，长榻
+28. Prosperity n.  繁荣，成功
+29. Curl n. 卷发；（头发的）卷曲
+30. Survey v. 审视，查勘，做民意测验
+31. Boobs n. 乳房
+32. Jog v. 慢跑
+33. Grunge n. 邋遢文化
+34. Baggage n. 行李
+35. Equip v. 装备，配备
+36. Critical adj. 批判的
+37. Abandon v. 抛弃，遗弃
+38. Recharge v. 充电，恢复体力
+39. Plenty n. 富裕，充裕
+40. Loose n. 在逃；放纵；（箭的）发射
+41. Chrysanthemum n. 菊花
+42. Immature adj. 发育未全的
+43. Slipper n. 室内便鞋，拖鞋
+44. Bargin n. 便宜货，减价品
+45. Stretch v. 变大，伸出，夸大，伸展肢体
+46. Cushy adj. 放松的，容易的
+47. Luggage n. 行李，皮箱
+48. Silk n. 丝绸
+49. Condemn v. 谴责，严厉指责
+50. Unprecedented adj. 前所未有的
+51. Coincidence n. 巧合
+52. Prefer v. 更喜爱，宁可
+53. Discount adj. 打折的
+54. Reservation n. 保留，保护；（房间座位等的）预订
+55. Accommodate v. 为......提供住宿；容纳，提供空间
+56. Outfit n. 全套服装
+57. Impromptu adj. 即兴的，即席的
+58. Renaissance n. 复兴；文艺复兴（时期）
+59. Gain n. 谷物；颗粒
+60. Sworn v. 发誓（swear 的过去分词）
+61. Finicky adj. 过分讲究的
+62. Shaky adj. 颤抖的
+63. Admit v. 承认，招供，招认
+64. Disaster n. 灾难
+65. Least det. 最少的，最小的
+66. Patience n. 耐心，耐性
+67. Vowel n. 元音，母音
+68. Snatch v. 一把抓住，夺去
+69. Enforcement n. 执行，实施
+70. Coupe n. 双门小轿车
+71. Enthusiast n. 热衷者，爱好者
+72. Debt n. 欠款，债务
+73. Literature n. 宣传片；印刷品
+74. Pantry n. 餐具室
+75. Toothbrush n. 牙刷
+76. Raisin n. 葡萄干
+77. Prove v. 证实，证明
