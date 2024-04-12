@@ -757,3 +757,471 @@ Eddie's cousin introduces him to hip-hop, while the family is visited by Jessica
 75. Toothbrush n. 牙刷
 76. Raisin n. 葡萄干
 77. Prove v. 证实，证明
+
+## S1.E5 Persistent Romeo
+
+### 1.Storyline
+
+Louis must hire an instructor to give the restaurant staff a sexual harassment seminar. Eddie attempts to impress his friends during a sleep over.
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. Feel up 触摸或抚摸
+2. Waiting list 等待名单
+3. Slip and fall 滑倒和摔倒
+4. So that 以便，为了
+5. Crash and burn 彻底失败
+6. Hidden fees 隐性费用
+7. Help me out 帮我一把
+8. Parking lot 停车场
+9. Get out of 摆脱；逃脱
+10. Wrap it up 结束或完成某件事情
+11. Fair and square 公平正直的
+
+#### 2.2.Slang
+
+1. Sploosh v.四处飞溅
+2. Dumb adj. 哑的；一时说不出话的；<非正式>愚蠢的
+3. Outta prep.（非正式，非规范）离开（同 out of）
+4. Garbage n. <美>垃圾，废物；<非正式>废话，无用信息
+
+#### 2.3.Brand
+
+1. Squiddies
+
+#### 2.4.Special words
+
+1. ***Sleepover*** - 一般指彻夜狂欢
+2. ***Eagle Scout*** - 雄鹰童子军(奖章) 童子军最早形成于1907年的英国，至今已有近百年的历史。它的目的是通过各种实践活动和技能训练在身体、精神、智力上培训青少年，帮助他们增长知识、掌握技能、完善自我、家庭以及所在的社区，使之成为有责任感、能自立的公民，将来对社会做贡献。童子军的基本划分单位是“troop”（部），年龄范围是11到18岁，等级从低到高依次为Tenderfoot Scout（初级军）、Second Class Scout（二等军） 、First Class Scout（一等军） 、Star Scout（星军） 、Life Scout （生命军）和Eagle Scout（鹰军）。加入童子军后，成员们通过完成每一阶段的技能要求而得到晋级，鹰军是最高荣誉，是每个童子军向往的目标。但是要完成鹰军的技能学习和要求需要十分的热忱投入与努力，在美国，有25%的少年加入了童子军，而他们当中仅仅只有4%最后成为鹰军。有因为各种原因中途放弃了的，有没能达到鹰军的要求而停留在Life Scout阶段的，所以坚持到最后的的确是真正的男子汉。
+3. Pedophile 恋童癖者
+4. Kickball - 用棒球的规则玩足球的运动
+5. ***Spring Break*** - 也叫春假，一般是在三月到四月之间放假，每个学校的放假时间早晚略有不同。
+
+#### 2.5.Classic conversation
+
+1. I was on the road to making some friends.
+2. Mo' Money, Mo' problems.
+3. Love isn't dirty. It's beautiful.
+
+#### 2.6.Food
+
+1. Fig newton 无花果饼干 
+
+#### 2.7.People
+
+1. Romeo 罗密欧
+2. ***Kathy Ireland*** - 凯西·爱尔兰在加利福尼亚州圣巴巴拉出生。她生在纽约，长於挪威，少年时移居南加州。她曾经有一个由卡马特销售的服装生产线，从事时装设计，以自己的名字为品牌，除时装外，还有泳衣、运动器材、孕妇衣物、家居用品，甚至手表、鞋履及手袋。
+
+#### 2.8.Place
+
+1. Arkansa n. 阿肯色州
+2. Maryland n. 马里兰州
+
+#### 2.9.Movies and TV series
+
+1. ***Crimson Tide*** - On a U.S. nuclear missile sub, a young First Officer stages a mutiny to prevent his trigger happy Captain from launching his missiles before confirming his orders to do so.
+
+### 3.Thinking
+
+### 4.New words
+
+1. Persistent adj. 执意的，坚持不懈的
+2. Brag v. 吹牛，自考
+3. Cereal n. 谷类食物；谷物
+4. Flood v. 淹没；大量涌出
+5. Corny adj. 乡下味的；陈腐的；粗野的
+6. Wanna vt. 想要（等于 want to）
+7. Obviously adv. （用于强调）显然，显而易见
+8. Subscription n. （杂志等的）订阅；订购
+9. Rape n. 强奸罪，强奸案
+10. Chemical n. 化学品；成瘾的药物
+11. Harassment n. 骚扰
+12. Fearmongering n. 恐慌制造
+13. Paranoia n. 无端恐惧，多疑；妄想症
+14. Miserable adj. 痛苦的，使人难受的
+15. Theater n. 电影院，戏院
+16. Disease n. 疾病，病害
+17. Overreach v. 伸得过远；不自量力
+18. Achieve v. （经努力）达到，取得
+19. Frivolous adj. 愚蠢轻浮的，不严肃的
+20. Lawsuit n. 诉讼，诉讼案
+21. Insurance n. 保险
+22. Poison v. 毒杀，在......下毒
+23. Seminar n. 研讨会，培训会
+24. Liable adj. （在法律上）有责任的，有义务的
+25. Grievance n. 不满，不平
+26. Appleauce n. 苹果酱
+27. Convince v. 使确信，使信服
+28. Flirt v. 调情
+29. Ankle n. 脚踝，踝关节
+30. Thigh n. 大腿
+31. Physically adv. 身体上，肉体上
+32. Expose v. 暴露，使显露
+33. Belly n. 腹部，肚子
+34. Especially adv. 尤其，特别
+35. Honkers n. 发出鸣叫声的人；喝醉的
+36. Foldout n. 插页，折页
+37. Neither det. 两者都不
+38. Besides prep. 除......之外（还）
+39. Slimer n. 细粉碎机；洗肠机
+40. Audience n. 观众，听众
+41. Rely v. 相信，信赖；依靠
+42. Apologize v. 道歉，谢罪
+43. Repeat v. 重复；重蹈
+44. Offender n. 犯罪者，违法者
+45. Complicate v. 使复杂化，使难以理解
+46. Octopus n. 章鱼
+47. Stew n.炖煮的菜肴
+48. Stove n. 炉子，火炉
+49. Inappropriate adj.  不恰当的，不合适的
+50. Ensnare vt. 诱捕；诱入陷阱
+51. Sensitivity n. 感知，觉察
+52. Regard v. 认为，把......看作
+53. Bank v. 抢劫；诈骗；偷窃
+54. Tape n. 磁带
+55. Floodlight n. 照明灯
+56. Scheme n. 计划，方案；系统，体系
+57. Paranoid adj. 多疑的，妄想的
+58. Completion n. 完成，结束
+59. Certificate n. 证明，证书
+60. Recommend v. 建议；推荐
+61. Viral n. 互联网上迅速传播的图片（或视频，广告等）
+62. Revolution n. 革命
+63. Confuse v. 使糊涂，使迷惑
+64. Epidemic n. 流行病，传染病
+65. Caused v. 引起；使发生
+66. Innocent adj. 天真的，幼稚的
+67. Assembly n. 议会，代表大会；集会
+68. District n. 地区，区域；行政区
+69. Approve v. 同意，赞成；批准，通过
+70. Razor n.  剃须刀，刮胡刀
+71. Blade n. 刀片，刀刃；（草，小麦等的）叶片
+72. Crip n. 瘸子
+73. Bluff v. 虚张声势，唬人
+74. Situation n. 情况；形势
+75. Conservative adj. 保守的，保守派的
+76. Compatible adj. 兼容的，可和睦相处的
+77. Sneeze n. 打喷嚏
+78. Satisfy v. 使满意，使满足
+79. Castle n. 城堡
+80. Crab n. 螃蟹
+81. Monologue n. 长篇独白，独角戏
+82. Bunch n. 束，扎，串
+83. Overreact vi. 反应过度；反应过火
+84. Stir-crazy adj. （因长期紧闭而）发疯的
+85. Classified n. 分类广告
+86. Penis n. 阴茎
+
+## S1.E6 Fajita Man
+
+### 1.Storyline
+
+Eddie takes a job at the family restaurant to earn money for a new video game, and Jessica searches for a job of her own.
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. Heat wave 热浪
+2. Hit on 偶然发现；突然想到
+3. Work out 锻炼
+4. As long as 只要，在......的时候
+5. Rather than 而不是
+6. Mix up 搞混
+7. Cast by 由......扮演
+8. Blimped out 过度放纵，过度消费
+9. Calm down 冷静下来
+10. That's fantastic 那真是太棒了
+11. Crank up 调高，提高，增加
+
+#### 2.2.Slang
+
+1. pops，pop是比较少见的称呼爸爸的方法，很多词典介绍pops是流行音乐，汽水或突然爆裂的声音，但是在这里，pops，pop是对爸爸的一种比较亲昵的，非正式的称呼，short for papa.
+2. Hoops 在篮球运动里是篮筐的意思
+3. Gotta contr. 必须，不得不（got to 的非规范发音书写形式）
+4. Swole 肌肉发达的（非正式）
+5. Spot 借（钱）给
+6. Dope 傻瓜
+7. Buck 元
+
+#### 2.3.Brand
+
+1. Popsicle 棒冰（商标名）
+2. Sears 西尔斯百货
+3. Nintendo 任天堂
+4. Brookstone 布鲁克斯东（美国一家连锁零售商）
+5. Ikea 宜家
+6. Band-aid 邦迪牌创可贴
+
+#### 2.4.Special words
+
+1. Karate n. 空手道
+2. Egg day 蛋日=生日
+
+#### 2.5.Classic conversation
+
+1. Her mother took her own life.
+2. You don't have to be a hard man to be a hard worker.
+3. qual Pay for Equal Work. 
+
+#### 2.6.Food
+
+1. Fajitas 法士达
+2. Salsa 洋葱做的辣调味汁
+
+#### 2.7.People
+
+#### 2.8.Place
+
+1. Miami 迈阿密
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+1. 牙仙（tooth fairy）是什么？
+
+### 4.New words
+
+1. Ban v. 禁止，取缔
+2. Determin v. 决定；下定决心
+3. Overqualified adj. 资历过高的
+4. Flick v. （尤指用手指或手快速地）轻击，轻弹
+5. Phantom n. 幽灵，鬼混
+6. Loiter v. 虚度；闲逛
+7. Aisle n. 走廊，过道
+8. Negotiable adj. 可协商的，可讨论的
+9. Changes n. （姓）蒋（在这个剧里指蒋家）
+10. Prominent adj. 重要的，著名的
+11. Upholstery n. 家具装饰品
+12. Textile n. 纺织物，织物
+13. Combin v. （使）结合，组合
+14. Fairy n. 仙子，小精灵
+15. Mow v. 割（草）
+16. Dinosaur n. 恐龙
+17. Nugget n. 天然金块，矿块
+18. Emergency n. 突发事件，紧急情况
+19. Headache n. 头痛
+20. Stamp n. 邮票；印记；章
+21. Terrific adj. 极好的，了不起的
+22. Publicity n. 报道；宣传；引起公众关注的事物
+23. Stunt n. 噱头，作秀；特技表演
+24. Claim 声称；索取；认领
+25. Plunder n. 掠夺；掠夺品
+26. Stumble 绊脚；跌跌撞撞地走
+27. Craze n. 狂热
+28. Skirt n. 女裙
+29. Sizzle n. 嘶嘶声；热情（非正式）
+30. Skillet n. 煮锅；长柄平底煎锅
+31. Pan n. 平底锅；<美> 烤盘
+32. Veggie n. 素食者
+33. Edible adj. 可食用的
+34. Downside n. 缺点；不立方米
+35. Entitle v. 给予（某人）权利；给予（某人）资格
+36. Penny n. 便士
+37. Ethic n. 行为准则，道德规范
+38. Exaggerating adj. 夸大的，夸张的
+39. Settle v. 解决，结束（争端等）；确定，决定；付清 
+40. Specialty n. 专业，专长
+41. Pickle n. 泡菜，腌菜
+42. Bunk n. 铺位
+43. Stranger n. 陌生人，新来者，异乡人
+44. Incredibly adv. 难以置信地
+45. Melt v. （使）溶化，融化
+46. Mustache n. 胡子
+47. Glue n. 胶水
+48. Flam n. 假话
+49. Fingerprint n. 指纹
+50. Handout n. 施舍物，救济品
+51. Dilemma n. 困境，窘境
+52. Particular n. 详细资料，详情
+53. Nail n. 指甲，趾甲，钉子
+54. Mattress n. 床垫
+55. Margin n. 差额，幅度
+56. Hedge n. 树篱；防范措施
+57. Trim v. 修剪，修整
+58. Molar n. 磨牙，臼齿
+59. Dolly n. 洋娃娃
+60. Fonda n. 旅馆
+61. Comedy n. 喜剧
+62. Comic n. 漫画
+63. Misfortune n. 厄运，不幸
+64. Rage v. 发脾气；大怒
+65. Evil adj. 恶毒的，邪恶的
+66. Dishonor vt. 使蒙羞，玷辱
+67. Ancestor n. 祖先，祖宗
+68. Dig v. 搜寻，寻找
+69. Divorce n. 离婚
+70. Freezer n. 冰箱
+71. Ironically adv. 具有讽刺意味的是
+72. Realty n. 房地产
+73. Bust v. 弄坏，打碎
+74. Leftover n. 剩饭
+75. Borrow v. 借
+76. Signature n. 签名
+77. Consolidate v. 使巩固，使加强
+78. Shift n. 改变，轮班工作时间
+79. Duty n. 责任；上班，值班
+80. Contender n. 竞争者
+81. Skylight n. 天窗
+82. Cemetery n. 公墓，墓地
+83. Spill v. （使）洒出，溢出
+84. Regina n. 女王
+85. Countertop n. 工作台面
+86. Potential adj. 潜在的
+87. Actually adv. 实际上，事实上
+88. Downtown n. 城镇的中心区
+89. Realization n. 认识，领悟
+90. Realtor n. 房产经纪人
+91. Infertility n. 不孕症
+92. Estate n. 财产；大片私有土地
+93. Thorough adj. 彻底的
+94. Instruction n. 用法说明，指引，指令，指示
+95. Delay n. 延期，推迟；耽搁
+96. Weaponize vt. 使......武器化
+
+## S1.E7 Showdown at the Golden Saddle
+
+### 1.Storyline
+
+The Huangs get a billboard for the restaurant, but it keeps on getting vandalized. Eddie tries impressing a girl that he likes.
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. Deep down 实际上，在心底
+2. Play along 配合，顺应
+3. Bright spot 亮点
+4. Cut in line 插队
+5. Fall sleep 入睡
+6. Drop off 放下，送达
+7. Hurry up 赶紧
+8. Bounced check 空头支票
+9. Back down 让步，退缩
+
+#### 2.2.Slang
+
+1. Cakewalk n. 步态竞赛；易如反掌之事
+2. Nap v. （尤指在白天）小睡，打盹
+3. Jack <美，非正式>偷窃
+4. Pee v. 尿尿
+
+#### 2.3.Brand
+
+1. Nordstrom n. 诺德斯特姆公司
+
+#### 2.4.Special words
+
+1. Parental advisory 家长指导：一种警告标签，通常用于音乐，电影等媒体产品，提醒家长该产品可能含有不适合未成年人观看或聆听的内容。
+2. Carpool 合伙用车，拼车
+
+#### 2.5.Classic conversation
+
+1. This is a America. You can pee if you want.
+2. I still had my dream of a better life for our family.
+3. So I took what I did have
+
+#### 2.6.Food
+
+1. Tootsie roll 托茜糖：一种美国流行的棒状软糖
+2. Burrito n. 玉米煎饼
+3. Chorizo n. 西班牙辣香肠
+
+#### 2.7.People
+
+1. ***Ice Cube*** - 艾斯·库伯（Ice Cube），原名老奥谢·杰克逊（O'Shea Jackson Sr.），1969年6月19日出生于美国加利福利亚州康普顿，美国说唱歌手、作词人、音乐制作人、演员、制片人，毕业于非尼克斯技术学院。
+
+#### 2.8.Place
+
+1. Nantucket n. 楠塔基特岛
+
+#### 2.9.Movies and TV series
+
+1. Caddyshack - An exclusive golf course has to deal with a flatulent new member and a destructive dancing gopher.
+
+### 3.Thinking
+
+### 4.New words
+
+1. Guilty adj. 内疚的，羞愧的
+2. Pleasure n. 快乐
+3. Immigrant n. （外来）移民
+4. Piece n. 块，张，片，段；碎片，零件
+5. Bullet n. 子弹
+6. Grace n. 优雅，优美
+7. Suspense n. 焦虑，悬念，兴奋
+8. Billboard n. 广告牌
+9. Sailing n. 帆船运动
+10. Convention n. 习俗，惯例
+11. Tattle n. 闲谈
+12. Turtle n. 海龟
+13. Attendance n. 出席人数；出勤
+14. Strategic adj. 战略（性）的，策略（上）的
+15. Naturally adv. 自然地
+16. Divert v. 使转向；分散
+17. Supervision n. 监督；管理
+18. Fend v. 避开，挡开；回避
+19. Survive v. （经历事故、战争或疾病后）活下来，幸存
+20. Ugly adj. 丑陋的，难看的；可怕的，恐怖的
+21. Stale adj. （食物）不新鲜的，变味的
+22. Intellectual adj. 智力的，理智的
+23. Buffalo n. 野牛；水牛
+24. Grocery n. 食品杂货店
+25. Chamber n. 房间；议会厅；膛，腔
+26. Commerce n. 贸易，商业
+27. Charity n. 慈善组织，慈善机构
+28. Fundraising n. 资金筹集，募捐
+29. Badass n. 坏蛋
+30. Grown-ass adj. 成年的，成熟的
+31. Bush n. 灌木，灌木丛
+32. Donate v. 捐赠
+33. Communicate v. 传递信息；传达
+34. Attitude n. 态度，看法；姿势；个人风格
+35. Glisten n. 闪光，闪耀
+36. Dew n. 露水
+37. Recognize v. 认识，辨别出
+38. Accountant n. 会计，会计师
+39. Cue v. 提示，暗示
+40. Anatomically adv. 结构上；解剖学上
+41. Squeeze v. 挤压；挤出
+42. Teat n. 奶头，奶嘴
+43. Panty n. 女裤；童裤
+44. Absent v. 缺席，离开
+45. Strengthen v. 使（情感、决心等）更强烈，使（关系）更加紧密
+46. Sufficient adj. 足够的，充足的
+47. Dominance n. 优势，支配地位
+48. Tremble v. 颤抖，哆嗦
+49. Gentle adj. 文静的，温柔的
+50. Bowel n. 肠，肠道
+51. Bland adj. 平淡的，枯燥乏味的
+52. Thermometer n. 温度计
+53. Flintstone n. 打火石
+54. Chewable n. 咀嚼片
+55. Doubt v. 怀疑，不确定，不信任
+56. Visionary adj. 有眼力的，有远见卓识的
+57. Thief n. 贼，小偷
+58. Sneaky adj. 鬼鬼祟祟的，卑鄙的
+59. Knockoff n. 廉价仿制品
+60. Franchise n. 特许经营权
+61. Confidential adj. 机密的，保密的
+62. Crime n. 罪，罪行
+63. Generously adv. 慷慨的
+64. Conclusion n. 结论；结局
+65. Champ n. 冠军
+66. Toe n. 脚趾
+67. Councilman n. 议员；委员
+68. Handful n. 难以控制的人
+69. Cherish v. 珍视
+70. Buckles n. 带扣
+71. Amount n. 数量，数额
+72. Ashamed adj. 感到羞愧，感到羞耻
+73. Poster n. 海报
+74. Fetish n. 恋物；迷信
+75. Vandalize vt. 肆意破坏
+76. Cinephile n. 影迷
+77. Pin n. 徽章，别针
+78. Stomach n. 胃
+79. Spice n. 香料，调味品
