@@ -417,7 +417,7 @@ Jessica thinks school must be too easy for the boys and gives them extra homewor
 39. Trick n. 花招；把戏；<非正式>嫖客
 40. Innocence n. 天真；纯真
 41. Reinforce v. 强化，加强，加固
-42. Stick n. 枯枝，枝条；条状物
+42. Stick n. 枯枝，枝条；条状物 / v. 粘，贴；戳，插
 43. Napkin n. 餐巾纸
 44. Tie v. 系，扎，捆
 45. Slippery adj. 湿滑的
@@ -441,7 +441,7 @@ Jessica thinks school must be too easy for the boys and gives them extra homewor
 63. Whisk v. 拂，掸；搅动
 64. Struggle v. 奋斗，努力
 65. Awful adj. 让人讨厌的，糟糕的；不舒服的
-66. Excuse n. 借口
+66. Excuse n. 借口；宽恕，赦免
 67. Workload n. 工作量
 68. Realize v. 意识到，认识到
 69. Booth n. 电话亭；摊位；（隔开的）小间
@@ -804,6 +804,7 @@ Louis must hire an instructor to give the restaurant staff a sexual harassment s
 1. I was on the road to making some friends.
 2. Mo' Money, Mo' problems.
 3. Love isn't dirty. It's beautiful.
+4. It was ill 非常酷，非常赞
 
 #### 2.6.Food
 
@@ -1146,82 +1147,422 @@ The Huangs get a billboard for the restaurant, but it keeps on getting vandalize
 
 ### 4.New words
 
-1. Guilty adj. 内疚的，羞愧的
-2. Pleasure n. 快乐
-3. Immigrant n. （外来）移民
-4. Piece n. 块，张，片，段；碎片，零件
-5. Bullet n. 子弹
-6. Grace n. 优雅，优美
-7. Suspense n. 焦虑，悬念，兴奋
-8. Billboard n. 广告牌
-9. Sailing n. 帆船运动
-10. Convention n. 习俗，惯例
-11. Tattle n. 闲谈
-12. Turtle n. 海龟
-13. Attendance n. 出席人数；出勤
-14. Strategic adj. 战略（性）的，策略（上）的
-15. Naturally adv. 自然地
-16. Divert v. 使转向；分散
-17. Supervision n. 监督；管理
-18. Fend v. 避开，挡开；回避
-19. Survive v. （经历事故、战争或疾病后）活下来，幸存
-20. Ugly adj. 丑陋的，难看的；可怕的，恐怖的
-21. Stale adj. （食物）不新鲜的，变味的
-22. Intellectual adj. 智力的，理智的
-23. Buffalo n. 野牛；水牛
-24. Grocery n. 食品杂货店
-25. Chamber n. 房间；议会厅；膛，腔
-26. Commerce n. 贸易，商业
-27. Charity n. 慈善组织，慈善机构
-28. Fundraising n. 资金筹集，募捐
-29. Badass n. 坏蛋
-30. Grown-ass adj. 成年的，成熟的
-31. Bush n. 灌木，灌木丛
-32. Donate v. 捐赠
-33. Communicate v. 传递信息；传达
-34. Attitude n. 态度，看法；姿势；个人风格
-35. Glisten n. 闪光，闪耀
-36. Dew n. 露水
-37. Recognize v. 认识，辨别出
-38. Accountant n. 会计，会计师
-39. Cue v. 提示，暗示
-40. Anatomically adv. 结构上；解剖学上
-41. Squeeze v. 挤压；挤出
-42. Teat n. 奶头，奶嘴
-43. Panty n. 女裤；童裤
-44. Absent v. 缺席，离开
-45. Strengthen v. 使（情感、决心等）更强烈，使（关系）更加紧密
-46. Sufficient adj. 足够的，充足的
-47. Dominance n. 优势，支配地位
-48. Tremble v. 颤抖，哆嗦
-49. Gentle adj. 文静的，温柔的
-50. Bowel n. 肠，肠道
-51. Bland adj. 平淡的，枯燥乏味的
-52. Thermometer n. 温度计
-53. Flintstone n. 打火石
-54. Chewable n. 咀嚼片
-55. Doubt v. 怀疑，不确定，不信任
-56. Visionary adj. 有眼力的，有远见卓识的
-57. Thief n. 贼，小偷
-58. Sneaky adj. 鬼鬼祟祟的，卑鄙的
-59. Knockoff n. 廉价仿制品
-60. Franchise n. 特许经营权
-61. Confidential adj. 机密的，保密的
-62. Crime n. 罪，罪行
-63. Generously adv. 慷慨的
-64. Conclusion n. 结论；结局
-65. Champ n. 冠军
-66. Toe n. 脚趾
-67. Councilman n. 议员；委员
-68. Handful n. 难以控制的人
-69. Cherish v. 珍视
-70. Buckles n. 带扣
-71. Amount n. 数量，数额
-72. Ashamed adj. 感到羞愧，感到羞耻
-73. Poster n. 海报
-74. Fetish n. 恋物；迷信
-75. Vandalize vt. 肆意破坏
-76. Cinephile n. 影迷
-77. Pin n. 徽章，别针
-78. Stomach n. 胃
-79. Spice n. 香料，调味品
+1. Showdown n. 摊牌
+2. Guilty adj. 内疚的，羞愧的
+3. Pleasure n. 快乐
+4. Immigrant n. （外来）移民
+5. Piece n. 块，张，片，段；碎片，零件
+6. Bullet n. 子弹
+7. Grace n. 优雅，优美
+8. Suspense n. 焦虑，悬念，兴奋
+9. Billboard n. 广告牌
+10. Sailing n. 帆船运动
+11. Convention n. 习俗，惯例
+12. Tattle n. 闲谈
+13. Turtle n. 海龟
+14. Attendance n. 出席人数；出勤
+15. Strategic adj. 战略（性）的，策略（上）的
+16. Naturally adv. 自然地
+17. Divert v. 使转向；分散
+18. Supervision n. 监督；管理
+19. Fend v. 避开，挡开；回避
+20. Survive v. （经历事故、战争或疾病后）活下来，幸存
+21. Ugly adj. 丑陋的，难看的；可怕的，恐怖的
+22. Stale adj. （食物）不新鲜的，变味的
+23. Intellectual adj. 智力的，理智的
+24. Buffalo n. 野牛；水牛
+25. Grocery n. 食品杂货店
+26. Chamber n. 房间；议会厅；膛，腔
+27. Commerce n. 贸易，商业
+28. Charity n. 慈善组织，慈善机构
+29. Fundraising n. 资金筹集，募捐
+30. Badass n. 坏蛋
+31. Grown-ass adj. 成年的，成熟的
+32. Bush n. 灌木，灌木丛
+33. Donate v. 捐赠
+34. Communicate v. 传递信息；传达
+35. Attitude n. 态度，看法；姿势；个人风格
+36. Glisten n. 闪光，闪耀
+37. Dew n. 露水
+38. Recognize v. 认识，辨别出
+39. Accountant n. 会计，会计师
+40. Cue v. 提示，暗示
+41. Anatomically adv. 结构上；解剖学上
+42. Squeeze v. 挤压；挤出
+43. Teat n. 奶头，奶嘴
+44. Panty n. 女裤；童裤
+45. Absent v. 缺席，离开
+46. Strengthen v. 使（情感、决心等）更强烈，使（关系）更加紧密
+47. Sufficient adj. 足够的，充足的
+48. Dominance n. 优势，支配地位
+49. Tremble v. 颤抖，哆嗦
+50. Gentle adj. 文静的，温柔的
+51. Bowel n. 肠，肠道
+52. Bland adj. 平淡的，枯燥乏味的
+53. Thermometer n. 温度计
+54. Flintstone n. 打火石
+55. Chewable n. 咀嚼片
+56. Doubt v. 怀疑，不确定，不信任
+57. Visionary adj. 有眼力的，有远见卓识的
+58. Thief n. 贼，小偷
+59. Sneaky adj. 鬼鬼祟祟的，卑鄙的
+60. Knockoff n. 廉价仿制品
+61. Franchise n. 特许经营权
+62. Confidential adj. 机密的，保密的
+63. Crime n. 罪，罪行
+64. Generously adv. 慷慨的
+65. Conclusion n. 结论；结局
+66. Champ n. 冠军
+67. Toe n. 脚趾
+68. Councilman n. 议员；委员
+69. Handful n. 难以控制的人
+70. Cherish v. 珍视
+71. Buckles n. 带扣
+72. Amount n. 数量，数额
+73. Ashamed adj. 感到羞愧，感到羞耻
+74. Poster n. 海报
+75. Fetish n. 恋物；迷信
+76. Vandalize vt. 肆意破坏
+77. Cinephile n. 影迷
+78. Pin n. 徽章，别针
+79. Stomach n. 胃
+80. Spice n. 香料，调味品
+
+## S1.E8 Phillip Goldstein
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+1. flap out 展开
+2. As far as 就......来说
+3. Pair up 配对
+4. Hold on 等一下
+5. Block away 几个街区之外
+6. Look out for 留意，注意
+7. Even more 更多
+
+#### 2.2.Slang
+
+1. Cop n. 警察
+1. Figure v. <美，非正式>认为，估计
+1. Golly int. 天哪（表示惊讶）
+1. Reckon v. <非正式>料想，认为
+
+#### 2.3.Brand
+
+1. Beasties boys
+
+#### 2.4.Special words
+
+1. Scrabble n. 拼字游戏
+2. First day friend
+3. Principal hunter
+4. Shabbat n. （犹太教）安息日
+
+#### 2.5.Classic conversation
+
+1. It's quite all right.
+2. Hospitality isn't dead.
+
+#### 2.6.Food
+
+1. Gefite n. 鱼饼冻
+
+#### 2.7.People
+
+1. Beastie Boys乐队是在后朋克时代美国流行音乐界具有重要地位和巨大影响力的一支乐队，之所以称Beastie Boys乐队为非常重要，不仅仅是因为他们是第一个真正大牌的白人说唱团体，更重要的是由于他们促进了两种音乐流派的混合——朋克和说唱。
+1. Tolstoy 托尔斯泰
+1. Cinderella n. 灰姑娘
+
+#### 2.8.Place
+
+1. Jerusalem n. 耶路撒冷
+2. Texas n. 德克萨斯州
+3. Tampa 坦帕市
+
+#### 2.9.Movies and TV series
+
+1. Good cops
+1. Egg Man. - Beastie Boys的一首歌
+
+### 3.Thinking
+
+#### 3.1.“egg”除了表示“蛋”之外，它在美国俚语中，还表示“家伙，人，东西”之意
+
+大家都知道，“egg”的意思是“蛋，鸡蛋”；
+
+于是，很多小伙伴一看到“good egg”，很自然地就会把它直译为“好鸡蛋”；
+
+其实，这是一种典型的中式英语思维。
+
+“egg”除了表示“蛋”之外，它在美国俚语中，还表示“家伙，人，东西”之意。
+
+这里，“good egg”这个表达，就是采用了拟人化的说法，通常用来表示对方是一个“好人，正人君子，讨人喜欢的人，有趣味的人”。
+
+所以，当别人对你说这句话时，不是在说“你是好鸡蛋”，人家这是在夸你呢！
+
+❗️例句He is such a good egg that everyone liked him.
+
+他是一个大好人，人人都喜欢他。
+
+❗️例句Tom is such a good egg that everybody wants to be his friends.
+
+汤姆是个好人，大家都愿意同他交朋友。
+
+❗️例句People said my mother was a good egg. She would always help anyone in need.
+
+人们都说我妈妈是个好人，她总是在别人需要时给予帮助。
+
+有“好鸡蛋”，就有“坏蛋”；
+
+在英语中，与“good egg”相对应的，就是“bad egg”。
+
+与中文稍有不同的是，“bad egg”在英语里形容的是“让人讨厌的人”，“坏”的程度没有那么高。
+
+❗️例句We all know he is a bad egg.
+
+我们都知道他是个坏蛋。
+
+❗️例句That man is a bad egg.
+
+那个男人是个讨厌鬼。
+
+### 4.New words
+
+1. Crew n. 全体船员；一组工作人员；一伙人，一帮人
+2. Tight adj. 紧身的；紧绷的；严格的
+3. Purpose n. 目的，意图
+4. Jib n. 船首三角帆
+5. Teak n. 柚木
+6. Culturally adv. 从文化角度
+7. Identify v. 认出；查明；发现
+8. Wield v. 挥，操，实用
+9. Hammer n. 锤子
+10. Cape n. 披肩，斗篷；海角，岬
+11. Lateral adj. 侧面的；（职位、工作、关系等）评级的，同级的
+12. Concern n. 担心，担忧
+13. Astronaut n. 宇航员，太空人
+14. Purse n. <美>（女用）手提包，手袋
+15. Despite prep. 尽管，即使
+16. Betrayal n. 背叛，出卖
+17. Clay n. 黏土，陶土
+18. Sculpture n. 雕像，雕塑作品
+19. Rope n. 绳索，粗绳
+20. Mutual adj. 相互的，彼此的
+21. Adopt v. 收养；采取，采纳；接受
+22. Jewish adj.  犹太人的
+23. Pushy adj. 执意强求的；野心勃勃的，有进取心的
+24. Bling n. 锦衣珠宝
+25. Repulsive adj. 排斥的；令人厌恶的
+26. Undesirable adj. 不受欢迎的，不良的
+27. Chemistry n. 化学
+28. Laugh n. 笑
+29. Hammies n. 腿筋
+30. Racist n. 种族主义者
+31. Response n. 反应，响应
+32. Complaint n. 抱怨，投诉
+33. Racism n. 种族主义
+34. Commence v. 开始，着手
+35. Pacific adj. 太平洋的
+36. Rim n. 边界；边沿
+37. Parchment n. 羊皮纸
+38. Express v. 表达；表现
+39. Monumental adj. 丰碑式的，伟大的
+40. Landscape n. 风景，景色
+41. Pardon n. 赦免；原谅
+42. Depend v. 取决于；依赖，依靠
+43. Creature n. 生物，动物
+44. Nonsense n. 荒谬的想法，胡说
+45. Instrument n. 器械；乐器
+46. Cello n. 大提琴
+47. Orchestral adj. 管弦乐的
+48. Arrange v. 安排
+49. Wobbler n. 思想动摇的人；摇摇晃晃的人
+50. Scrap n. 碎片，小块
+51. Mess n. 肮脏，杂乱；不整洁或邋遢的人（或物）
+52. Petition n. 请愿书；申述书；申请书
+53. Mayor n. 镇长，市长
+54. Enemy n. 敌人
+55. Snack n. 零食，点心
+56. Ginger n. 生姜
+57. Shame n. 羞耻，羞愧
+58. Hospitality n. 殷勤款待，好客
+59. Lasso n. 套索
+60. Pedal n. （自行车，汽车或机器的）脚踏板
+61. Hitting n. 击中
+62. Barbershop n. 理发店
+63. Honestly adv. 老实说，真诚地
+64. Annoying adj. 令人恼火的，令人烦躁的
+65. Corporate adj. 公司的
+66. Confrontational adj. 对抗的
+67. Spitting v.吐痰，吐出来；喷溅物
+68. Elegant adj. 高雅的，举止优雅的
+69. Prohibit v. 禁止，阻止
+70. Certain adj. 必然的，必定的；确定的
+71. Slide v. （使）滑行，滑动
+72. Responsible adj. （对某人、某事）负责的
+73. Absolutely adv. 绝对地，完全地
+74. Proposition n. 主张，观点
+75. Silly adj. 愚蠢的，傻的
+76. Matinee n. （戏剧、电影的）午后场
+77. Souvenir n. 纪念品
+78. Proper adj. 真正的，像样的；合适的
+79. Sloppy adj. 马虎的，草率的
+80. Serious adj. 严重的；认真的，严肃的
+81. Venue n. （事件的）发生地点，（活动的）场所
+82. Pleat n. （布料上缝的）褶；褶状物 / v. 使......打褶
+83. Mezzanine n. 中层楼；夹楼
+84. Bravo n. 喝彩声
+85. Intermission n. 幕间休息；暂停
+86. Peak v. 达到高峰，达到最大值
+87. Blame n. 责备，过错，罪责
+88. Legal adj. 法律允许的，合法的
+89. Devot adj. 虔诚的；衷心的
+90. Gorgeous adj. 美丽动人的
+91. Selfish adj. 自私的，利己的
+92. Awesome adj. 令人敬畏的；极好的；太棒了
+93. Philistine n. 非利士人；不喜欢文化艺术的人；没有文化教养的人；平庸之辈
+94. Dimple n. 酒窝
+
+## S1.E9 License to Sell
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+#### 2.2.Slang
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+#### 2.6.Food
+
+#### 2.7.People
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
+
+## S1.E10 Blind Spot
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+#### 2.2.Slang
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+#### 2.6.Food
+
+#### 2.7.People
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
+
+## S1.E11 Very Superstitious
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+#### 2.2.Slang
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+#### 2.6.Food
+
+#### 2.7.People
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
+
+## S1.E12 Dribbling Tiger, Bounce Pass Dragon
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+#### 2.2.Slang
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+#### 2.6.Food
+
+#### 2.7.People
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
+
+## S1.E13 So Chineez
+
+### 1.Storyline
+
+### 2.Notes
+
+#### 2.1.Phrase
+
+#### 2.2.Slang
+
+#### 2.3.Brand
+
+#### 2.4.Special words
+
+#### 2.5.Classic conversation
+
+#### 2.6.Food
+
+#### 2.7.People
+
+#### 2.8.Place
+
+#### 2.9.Movies and TV series
+
+### 3.Thinking
+
+### 4.New words
