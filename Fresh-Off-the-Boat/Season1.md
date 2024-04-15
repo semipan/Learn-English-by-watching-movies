@@ -1564,13 +1564,35 @@ Jessica worries she can't compete with a top realtor and puts off taking the exa
 
 ### 1.Storyline
 
+Jessica is annoyed that Louis isn't jealous when her college boyfriend, Oscar, visits.
+
 ### 2.Notes
 
 #### 2.1.Phrase
 
+1. Blind spot 盲点
+2. Keep up 保持，坚持，维持
+3. Stay with 同......住在一起
+4. Deal with 处理
+5. Break down 分解
+6. Get over 克服；恢复过来
+7. Big break 重大机遇
+8. Freshen up 洗簌
+9. Get along 相处
+10. Liven up 使某人更有活力，改善情绪，变得更加快乐
+11. French press 法式咖啡壶
+12. Storm out 愤怒地离开或离去
+13. Buy you a drink 请你喝一杯
+14. Close out 清仓；排除；停止运营
+
 #### 2.2.Slang
 
+1. Ex n. <非正式>前妻，前夫，以前的性伴侣
+
 #### 2.3.Brand
+
+1. Sudafed 
+2. Jacuzzi n. 极可意水流按摩浴缸
 
 #### 2.4.Special words
 
@@ -1578,15 +1600,101 @@ Jessica worries she can't compete with a top realtor and puts off taking the exa
 
 #### 2.6.Food
 
+1. Croquembouche n. 焦糖奶油松饼
+2. Oatmeal bath 燕麦浴
+
 #### 2.7.People
+
+1. 帕特里克·斯威兹（Patrick Swayze，1952年8月18日-2009年9月14日），生于美国德克萨斯州休斯顿，演员。
+2. 黛米·摩尔（Demi Moore），1962年11月11日出生于美国新墨西哥州，美国演员。
+3. 多莉·帕顿（Dolly Parton），1946年1月19日出生于美国田纳西州，美国女歌手。5岁可以作曲，10岁开始在电视上进行表演，11岁录制唱片。代表作为《Joshua》。
 
 #### 2.8.Place
 
+1. Philadelphia n. 费城
+2. Tacoma n. 塔科马港市
+
 #### 2.9.Movies and TV series
+
+1. ghost - After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
+2. Outbreak - Army doctors struggle to find a cure for a deadly virus spreading throughout a California town that was brought to America by an African monkey.
 
 ### 3.Thinking
 
 ### 4.New words
+
+1. Jealous adj. 妒忌的，好嫉妒的；珍惜的，猜疑的
+2. Household n. 家庭，一家人；家务
+3. Fair n. 集市，展览会
+4. Invent v. 发明，创造
+5. Gunpowder n. 火药
+6. Suitor n. 求婚者
+7. Cutthroat n. 谋杀者，凶手
+8. Due adj. 到期的，预期的；应有的，应得的
+9. Imply v. 暗示，暗指；意味着
+10. Pregnant adj. 怀孕的
+11. Cinder n. 煤渣
+12. Sunk v. 下沉，沉没
+13. Except prep. 除......外
+14. Ancient adj. 古代的，远古的；古老的，年代久远的
+15. Chickenpox n. 水痘
+16. Virus n. 病毒
+17. Ideal adj. 理想的，最佳的
+18. Overhear v. 无意中听到，偷听到
+19. Oyster n. 牡蛎，生蚝
+20. Aquarium n. 水族箱
+21. Scrub v. （尤指用硬刷子）擦洗，擦净
+22. Volcano n. 火山
+23. Shortcut n. 近路；捷径，快捷方式
+24. Flavor n. 风味；香味
+25. Healing n. 康复
+26. Absorb v. 吸收；纳入；汲取
+27. Invalid n. 病弱者，伤残者
+28. Quarantine n. 隔离期；隔离
+29. Contagious adj. （疾病）接触性传染的
+30. Afterwards adv. 过后，后来
+31. Massage n. 按摩，推拿
+32. Scaffold vt. 给......搭脚手架；用支架支撑
+33. Chime n. 排钟，编钟
+34. Thoughtful adj.  体贴入微的，考虑周到的
+35. Attentive adj. 贴心的
+36. Audition n. （对演艺人员的）面试
+37. Spectacular n. 壮观场面，盛大演出
+38. Athene n. 运动员
+39. Entire adj. 全部的，整个的
+40. Forehead n. 前额
+41. Gaydar n. 同性恋雷达
+42. Germ n. 病菌，细菌
+43. Tragic adj. 悲惨的，悲痛的
+44. Carpet n. 地毯
+45. Cheerleading n. 带领啦啦队
+46. Practically adv. 几乎，差不多
+47. Underneath adv. 在......下面
+48. Robe n. 礼炮，睡袍，浴衣
+49. Swish adj. 时髦的，漂亮的
+50. Clue n. 线索，提示
+51. Kayak n. 皮船
+52. Rapid n. 急流，湍滩
+53. Misunderstand v. 误会，误解
+54. Dessert n. （正餐后的）甜点
+55. Expect v. 期待
+56. Humiliate v. 羞辱，使蒙羞
+57. Crust n. 面包皮，地壳
+58. Cough v. 咳嗽
+59. Torso n. 躯干
+60. Limb n. 肢；大树枝
+61. Glitter n. 闪耀，闪光，闪亮
+62. Gladly adv. 乐意地，高兴地
+63. Costume n. 服装，装束
+64. Confident adj. （性格，态度）自信的，充满信心的
+65. Pastry n. 油酥面团；酥皮蛋糕
+66. Sperm n. 精子
+67. Tired adj.  疲倦的，累的
+68. Bother v. 费心；（使）烦恼
+69. Closet n.  壁橱
+70. Suspect v.  猜想，认为；怀疑......有罪
+71. Calculator n. 计算器
+72. Dairy n. 乳制品
 
 ## S1.E11 Very Superstitious
 
