@@ -1071,7 +1071,7 @@ Eddie takes a job at the family restaurant to earn money for a new video game, a
 83. Spill v. （使）洒出，溢出
 84. Regina n. 女王
 85. Countertop n. 工作台面
-86. Potential adj. 潜在的
+86. Potential adj. 潜在的 / n. （事物的）潜力，可能性
 87. Actually adv. 实际上，事实上
 88. Downtown n. 城镇的中心区
 89. Realization n. 认识，领悟
@@ -1231,6 +1231,8 @@ The Huangs get a billboard for the restaurant, but it keeps on getting vandalize
 ## S1.E8 Phillip Goldstein
 
 ### 1.Storyline
+
+Eddie tries to make friends with the only other Chinese kid in school.
 
 ### 2.Notes
 
@@ -1431,29 +1433,132 @@ The Huangs get a billboard for the restaurant, but it keeps on getting vandalize
 
 ### 1.Storyline
 
+Jessica worries she can't compete with a top realtor and puts off taking the exam for her license.
+
 ### 2.Notes
 
 #### 2.1.Phrase
 
+1. Full force 全力以赴
+2. Swoop in 突然出现并迅速采取行动
+3. Go ahead 前进，继续；继续进行；开始；先走
+4. Not at all 一点也不；不用谢，不客气
+5. Shoot out 射击
+6. All over again 重新开始
+7. Get off 下车；起床；离开；逃脱惩罚
+8. Weed out 淘汰
+9. Blew off 不理睬，忽视；结束（与某人）的关系；未出席，缺席
+10. Blew me off 放我鸽子 
+11. Right away 立刻
+12. True dat 表示同意某人的说法，和“true that” 意思相同
+13. Catch up 追赶上；赶上
+14. Go for it 全力以赴
+15. Good at 擅于
+16. On earth 到底，究竟
+
 #### 2.2.Slang
+
+1. Tire n. <美>轮胎
+2. Freak n. <非正式>狂热爱好者；畸形人
+3. Skeeze n. 卑鄙的人，不道德的人
+4. Crib n. <美，非正式>住处，小窝
 
 #### 2.3.Brand
 
 #### 2.4.Special words
 
+1. Ski jumping  滑雪跳台
+2. Real estate 房地产
+
 #### 2.5.Classic conversation
+
+1. Getting girls is like opening a restaurant.
+1. A lot of things in life are new for you.
+1. All that matters is you do your best.
 
 #### 2.6.Food
 
+1. Chipwich n. 夹有炸马铃薯条的快餐面包
+
 #### 2.7.People
+
+1. Janet Jackson  - 珍妮·杰克逊（Janet Jackson），1966年5月16日出生于美国印第安纳州，美国流行女歌手、影视演员。
+2. Jermaine Dupri - 杰梅因·杜普里·莫尔丁（Jermaine Dupri Mauldin），出生于1972年9月23日，通常被称为杰梅因·杜普里（Jermaine Dupri），美国唱片制作人、作曲人、说唱歌手。
+3. Mike Tyson - 迈克·泰森（Mike Tyson）， 1966年6月30日生于美国纽约市布鲁克林区，美国前重量级拳击职业运动员，演员。
+4. Michael Crichton - 迈克尔·克莱顿，全名约翰·迈克尔·克莱顿（JohnMichaelCrichton），1942年出生于美国芝加哥，曾在哈佛大学文学系就读，后转读考古人类学系。美国著名畅销书作家和影视导演、制片人。
+5. Brandon Lee - 李国豪，出生于美国加利福尼亚州，波士顿埃马逊卡列电影学校（肄业），中国旅美影视男演员、功夫巨星李小龙的儿子。
+6. Melissa Joan Hart - 梅利莎·琼·哈特，1976年生于美国纽约州长岛索夫克郡，美国女演员、导演。
+7. Elmer Fudd - 艾尔默·费德：一位出现在美国华纳兄弟动画片中的虚构角色，以猎人身份出现，经常与兔子布格斯·邦尼互动。
 
 #### 2.8.Place
 
 #### 2.9.Movies and TV series
 
+1. The Crow - A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.
+
 ### 3.Thinking
 
 ### 4.New words
+
+1. Swoop v. 俯冲；突然袭击
+2. Caricature n. 人物漫画；夸张的描述
+3. Apron n. 围裙
+4. Sauce n. 酱，调味汁
+5. Giant adj. 巨大的
+6. Lay v. 安放，放置；铺放，铺设
+7. Ashy adj. 灰白色的
+8. Conveniently adv. 便利地，合宜地
+9. Desperate adj. 不顾一切的，拼命的
+10. Guilty adj. 内疚的，羞愧的
+11. Jail n. 监狱
+12. Ace v. 在......中取得好成绩
+13. Cone n. 圆锥体
+14. Premium n.  保险费；加付款，加价
+15. Omnidirectional adj. 全方向的
+16. Jive vi. 跳摇摆舞；哄骗
+17. Sentinel n. 哨兵
+18. Embarrassing adj. 令人尴尬的，使人难堪的
+19. Career n. 职业，事业；职业生涯
+20. Envy v. 羡慕，忌妒；向往，渴望
+21. Detention n. 拘留，关押
+22. Rebel n. 造反者，反抗者
+23. Nijia n. 忍着
+24. Formality n. 正式，正式性；例行公事；礼节，正式手续
+25. Stance n. （公开表明的）观点，态度，立场；（尤指体育运动中的）站立姿势；立脚处；站位
+26. Mansion n. 大厦
+27. Condo n. 分户出售公寓大厦
+28. Houseboat n. 游艇
+29. Turd n. 粪便；可卑鄙的人
+30. Warfare n. 战争
+31. Addict v. 使上瘾，使沉迷
+32. Prescription n. 处方，处方药
+33. Med n. 药，药物
+34. Scratcher n. 抓扒者
+35. Dust n. 尘土，灰尘；粉末
+36. Ketchup n. 蕃茄酱
+37. Maniac n. 疯子，躁狂者
+38. Junk n. 垃圾；废旧杂物；毫无价值的事物
+39. Shield n.  盾（牌）；防护物
+40. Lieutenant n. （陆军，海军，空间）中尉
+41. Crimper n. 卷缩机
+42. Interchangeable adj. 可互换的；可交换的
+43. Piercing n. 身体穿孔佩戴饰品；（在身体部位打的）孔，洞
+44. Earring n. 耳环，耳饰
+45. Dentist n. 牙科医生
+46. Propensity n. 倾向，习性
+47. Legit adj. 合法的
+48. Conquer v. 占领，攻克，征服
+49. Propane n. 丙烷
+50. Henna n. 指甲花
+51. Stencil n. 漏字板
+52. Decorate v. 装饰，装点
+53. Noncommercial adj. 非经营的
+54. Establishment n. 建立，设立；机构
+55. Panic n.  恐慌，惊慌
+56. Bench v. 把（场上队员）换下
+57. Lame adj.  残疾的；站不住脚的；差劲的；<美，非正式>幼稚的
+58. Mustard n. 芥末酱；芥末黄
+59. Fighter n. 战士
 
 ## S1.E10 Blind Spot
 
