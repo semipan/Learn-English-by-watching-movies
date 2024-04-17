@@ -1261,7 +1261,6 @@ Eddie tries to make friends with the only other Chinese kid in school.
 
 1. Scrabble n. 拼字游戏
 2. First day friend
-3. Principal hunter
 4. Shabbat n. （犹太教）安息日
 
 #### 2.5.Classic conversation
@@ -1349,85 +1348,86 @@ Eddie tries to make friends with the only other Chinese kid in school.
 13. Astronaut n. 宇航员，太空人
 14. Purse n. <美>（女用）手提包，手袋
 15. Despite prep. 尽管，即使
-16. Betrayal n. 背叛，出卖
-17. Clay n. 黏土，陶土
-18. Sculpture n. 雕像，雕塑作品
-19. Rope n. 绳索，粗绳
-20. Mutual adj. 相互的，彼此的
-21. Adopt v. 收养；采取，采纳；接受
-22. Jewish adj.  犹太人的
-23. Pushy adj. 执意强求的；野心勃勃的，有进取心的
-24. Bling n. 锦衣珠宝
-25. Repulsive adj. 排斥的；令人厌恶的
-26. Undesirable adj. 不受欢迎的，不良的
-27. Chemistry n. 化学
-28. Laugh n. 笑
-29. Hammies n. 腿筋
-30. Racist n. 种族主义者
-31. Response n. 反应，响应
-32. Complaint n. 抱怨，投诉
-33. Racism n. 种族主义
-34. Commence v. 开始，着手
-35. Pacific adj. 太平洋的
-36. Rim n. 边界；边沿
-37. Parchment n. 羊皮纸
-38. Express v. 表达；表现
-39. Monumental adj. 丰碑式的，伟大的
-40. Landscape n. 风景，景色
-41. Pardon n. 赦免；原谅
-42. Depend v. 取决于；依赖，依靠
-43. Creature n. 生物，动物
-44. Nonsense n. 荒谬的想法，胡说
-45. Instrument n. 器械；乐器
-46. Cello n. 大提琴
-47. Orchestral adj. 管弦乐的
-48. Arrange v. 安排
-49. Wobbler n. 思想动摇的人；摇摇晃晃的人
-50. Scrap n. 碎片，小块
-51. Mess n. 肮脏，杂乱；不整洁或邋遢的人（或物）
-52. Petition n. 请愿书；申述书；申请书
-53. Mayor n. 镇长，市长
-54. Enemy n. 敌人
-55. Snack n. 零食，点心
-56. Ginger n. 生姜
-57. Shame n. 羞耻，羞愧
-58. Hospitality n. 殷勤款待，好客
-59. Lasso n. 套索
-60. Pedal n. （自行车，汽车或机器的）脚踏板
-61. Hitting n. 击中
-62. Barbershop n. 理发店
-63. Honestly adv. 老实说，真诚地
-64. Annoying adj. 令人恼火的，令人烦躁的
-65. Corporate adj. 公司的
-66. Confrontational adj. 对抗的
-67. Spitting v.吐痰，吐出来；喷溅物
-68. Elegant adj. 高雅的，举止优雅的
-69. Prohibit v. 禁止，阻止
-70. Certain adj. 必然的，必定的；确定的
-71. Slide v. （使）滑行，滑动
-72. Responsible adj. （对某人、某事）负责的
-73. Absolutely adv. 绝对地，完全地
-74. Proposition n. 主张，观点
-75. Silly adj. 愚蠢的，傻的
-76. Matinee n. （戏剧、电影的）午后场
-77. Souvenir n. 纪念品
-78. Proper adj. 真正的，像样的；合适的
-79. Sloppy adj. 马虎的，草率的
-80. Serious adj. 严重的；认真的，严肃的
-81. Venue n. （事件的）发生地点，（活动的）场所
-82. Pleat n. （布料上缝的）褶；褶状物 / v. 使......打褶
-83. Mezzanine n. 中层楼；夹楼
-84. Bravo n. 喝彩声
-85. Intermission n. 幕间休息；暂停
-86. Peak v. 达到高峰，达到最大值
-87. Blame n. 责备，过错，罪责
-88. Legal adj. 法律允许的，合法的
-89. Devot adj. 虔诚的；衷心的
-90. Gorgeous adj. 美丽动人的
-91. Selfish adj. 自私的，利己的
-92. Awesome adj. 令人敬畏的；极好的；太棒了
-93. Philistine n. 非利士人；不喜欢文化艺术的人；没有文化教养的人；平庸之辈
-94. Dimple n. 酒窝
+16. Principal n. <美>（美国公立中小学的）校长
+17. Betrayal n. 背叛，出卖
+18. Clay n. 黏土，陶土
+19. Sculpture n. 雕像，雕塑作品
+20. Rope n. 绳索，粗绳
+21. Mutual adj. 相互的，彼此的
+22. Adopt v. 收养；采取，采纳；接受
+23. Jewish adj.  犹太人的
+24. Pushy adj. 执意强求的；野心勃勃的，有进取心的
+25. Bling n. 锦衣珠宝
+26. Repulsive adj. 排斥的；令人厌恶的
+27. Undesirable adj. 不受欢迎的，不良的
+28. Chemistry n. 化学
+29. Laugh n. 笑
+30. Hammies n. 腿筋
+31. Racist n. 种族主义者
+32. Response n. 反应，响应
+33. Complaint n. 抱怨，投诉
+34. Racism n. 种族主义
+35. Commence v. 开始，着手
+36. Pacific adj. 太平洋的
+37. Rim n. 边界；边沿
+38. Parchment n. 羊皮纸
+39. Express v. 表达；表现
+40. Monumental adj. 丰碑式的，伟大的
+41. Landscape n. 风景，景色
+42. Pardon n. 赦免；原谅
+43. Depend v. 取决于；依赖，依靠
+44. Creature n. 生物，动物
+45. Nonsense n. 荒谬的想法，胡说
+46. Instrument n. 器械；乐器
+47. Cello n. 大提琴
+48. Orchestral adj. 管弦乐的
+49. Arrange v. 安排
+50. Wobbler n. 思想动摇的人；摇摇晃晃的人
+51. Scrap n. 碎片，小块
+52. Mess n. 肮脏，杂乱；不整洁或邋遢的人（或物）
+53. Petition n. 请愿书；申述书；申请书
+54. Mayor n. 镇长，市长
+55. Enemy n. 敌人
+56. Snack n. 零食，点心
+57. Ginger n. 生姜
+58. Shame n. 羞耻，羞愧
+59. Hospitality n. 殷勤款待，好客
+60. Lasso n. 套索
+61. Pedal n. （自行车，汽车或机器的）脚踏板
+62. Hitting n. 击中
+63. Barbershop n. 理发店
+64. Honestly adv. 老实说，真诚地
+65. Annoying adj. 令人恼火的，令人烦躁的
+66. Corporate adj. 公司的
+67. Confrontational adj. 对抗的
+68. Spitting v.吐痰，吐出来；喷溅物
+69. Elegant adj. 高雅的，举止优雅的
+70. Prohibit v. 禁止，阻止
+71. Certain adj. 必然的，必定的；确定的
+72. Slide v. （使）滑行，滑动
+73. Responsible adj. （对某人、某事）负责的
+74. Absolutely adv. 绝对地，完全地
+75. Proposition n. 主张，观点
+76. Silly adj. 愚蠢的，傻的
+77. Matinee n. （戏剧、电影的）午后场
+78. Souvenir n. 纪念品
+79. Proper adj. 真正的，像样的；合适的
+80. Sloppy adj. 马虎的，草率的
+81. Serious adj. 严重的；认真的，严肃的
+82. Venue n. （事件的）发生地点，（活动的）场所
+83. Pleat n. （布料上缝的）褶；褶状物 / v. 使......打褶
+84. Mezzanine n. 中层楼；夹楼
+85. Bravo n. 喝彩声
+86. Intermission n. 幕间休息；暂停
+87. Peak v. 达到高峰，达到最大值
+88. Blame n. 责备，过错，罪责
+89. Legal adj. 法律允许的，合法的
+90. Devot adj. 虔诚的；衷心的
+91. Gorgeous adj. 美丽动人的
+92. Selfish adj. 自私的，利己的
+93. Awesome adj. 令人敬畏的；极好的；太棒了
+94. Philistine n. 非利士人；不喜欢文化艺术的人；没有文化教养的人；平庸之辈
+95. Dimple n. 酒窝
 
 ## S1.E9 License to Sell
 
@@ -1865,23 +1865,47 @@ https://www.bilibili.com/video/av853458905/ 这个视频讲的非常不错
 
 ### 1.Storyline
 
+Louis and Jessica get pressured into volunteering at the kids' schools because of budget cuts. Eddie sees a whole other side of his dad when Louis - a former semi-pro basketball player back in Taiwan -- coaches the basketball team, while Emery and Evan see a side of Jessica they wish they hadn't when she grudgingly takes on producing their school play, and puts her own spin on it.
+
 ### 2.Notes
 
 #### 2.1.Phrase
 
+1. Chime in 插嘴，参与讨论
+2. Goof off 偷懒
+3. Pull up a chair 拉一把椅子过来
+4. Stable income  稳定收入
+5. Substance over style 内容大于形式
+6. Cast up 以责备的方式提出或说出
+
 #### 2.2.Slang
 
+1. Bum n. <美，非正式>流浪汉；<非正式>懒汉
+
 #### 2.3.Brand
+
+1. Tetris n. 俄罗斯方块
 
 #### 2.4.Special words
 
 #### 2.5.Classic conversation
 
+1. But isn't that why we work so hard, To give them the opportunity to do things that we couldn't do?
+
 #### 2.6.Food
+
+1. Macaroni n. 通心粉
+2. Bagel n. 百吉饼，贝果
+3. Quesadilla n. 油炸玉米粉饼
 
 #### 2.7.People
 
+1. 宗毓华（Connie Chung，全名Constance Yu-Hwa Chung，另译康妮·宗），1946年8月20日出生于美国华盛顿，祖籍江苏苏州，美国知名华裔女主播、记者，曾在多个美国电视新闻网任职，是最高身价华裔女主播。
+2. 约翰·斯托克顿（John Stockton），1962年3月26日出生于华盛顿州斯波坎，前美国职业篮球运动员，司职控球后卫。
+
 #### 2.8.Place
+
+1. Lazywood n. 莱迪伍德 
 
 #### 2.9.Movies and TV series
 
@@ -1889,7 +1913,56 @@ https://www.bilibili.com/video/av853458905/ 这个视频讲的非常不错
 
 ### 4.New words
 
-1. 
+1. Offensive adj. 无礼的，冒犯的
+2. Statue n. （石或金属做的动物或人的）雕像
+3. Volunteer n. 志愿者，义务工作者
+4. Extracurricular adj.  课外的；工作之外的
+5. Cutback n. 减少，消减
+6. Supervise v. 指导（某人）的工作；监督（任务、工作、活动）
+7. Mandatory adj. 强制性的，义务的
+8. Wander n.游荡，漫步
+9. Sparkle v. 闪烁，闪耀
+10. Waist n. 腰，腰围
+11. Mystic adj. 神秘的；神秘主义的
+12. Rehearsal n. 排练，排演
+13. Represent v. 代表；为......代言（辩护）
+14. Offend v. 得罪，冒犯；令人不悦
+15. Diversity n. 多样化，多样性
+16. Drill n. 训练，演习；钻机
+17. Bounce v. 弹跳，弹起
+18. Faithful n. 忠实的，忠诚的
+19. Guardian n. 守卫者
+20. Lane n. （乡间）小路；（比赛的）跑道，泳道，航道
+21. Stubborn adj. 固执的，倔强的
+22. Goat n. 山羊；<美，非正式>替罪羊
+23. Fundamental adj. 根本的，基本的
+24. Sponsor n. 赞助者，赞助商
+25. Wristband n. 腕带，腕套
+26. Goggle n. 护目镜
+27. Valid adj. 有效的，正当的，合理的
+28. Pursuit n. 追求，寻找；继续；追逐
+29. Uniform n. 制服，校服
+30. Bleach v. 漂白，使褪色
+31. Bald adj. 秃头的，光秃的，不加修饰的
+32. Gumdrop n. 橡皮软糖
+33. Improvisation n. 即兴创作
+34. Whistle n. 哨子，口哨声
+35. Preparation n. 准备；准备工作
+36. Prep v.  <美，非正式>把......准备好，使预备好
+37. Tale n. 故事，传说
+38. Dunk n. 扣篮，灌篮
+39. Layup n. 带球上篮
+40. Unstoppable adj. 无法阻挡的
+41. Spanking n. 打屁股，拍击
+42. Ref abbr. 裁判
+43. Mercy n. 仁慈，宽恕
+44. Foul n. 犯规
+45. Chore n. 家庭杂务，杂活；累活，苦差事
+46. Brittle adj. 易碎的，脆的
+47. Comb n. 梳子
+48. Braid n. 辫子
+49. Tissue n. 纸巾，面巾纸
+50. Application n. 正式申请，书面申请；申请书，申请表；应用
 
 ## S1.E13 So Chineez
 
