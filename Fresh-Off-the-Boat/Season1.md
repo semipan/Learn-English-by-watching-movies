@@ -1700,15 +1700,48 @@ Jessica is annoyed that Louis isn't jealous when her college boyfriend, Oscar, v
 
 ### 1.Storyline
 
+Jessica's superstitions get the best of her when she sells a house with the address 44 West 44th Street - the number 4 being bad luck in Chinese culture.
+
 ### 2.Notes
 
 #### 2.1.Phrase
 
+1. Ward off 避开，防止
+2. Less and less 越来越少
+3. Laid back  懒散的，悠闲的
+4. Class president 班级主席
+5. Well done 做得好，干得好，全熟牛排
+6. Get rid of 摆脱
+7. Don't be silly 别傻了
+8. Fall out of 放弃
+9. Trip over 绊倒
+10. White lie 善意的谎言
+11. Speed up 加速
+12. Nice touch 巧妙的安排或设计
+13. Clear up 整理，收拾
+14. Amp up 增强，增加（某物）的功率
+15. Sure does 当然
+16. Throw up 抛起：迅速抬起；放弃；吐出
+17. Rip up 撕碎，撕毁
+18. Not a big deal 不是什么大不了的事情
+19. Jam session 即兴演奏
+20. Pitch in 共同努力，出一份力
+21. Stick into 插入
+22. Set up 建立，设立
+23. Score on 得分
+
 #### 2.2.Slang
+
+1. Aunty n. <非正式>姑妈，伯母，舅妈，阿姨
+2. “-ass”是一个后缀，可以添加到形容词中以强调并使其更加粗鲁。
 
 #### 2.3.Brand
 
 #### 2.4.Special words
+
+1. Open house day
+2. Happy hour 
+3. Garfield n. 加菲猫
 
 #### 2.5.Classic conversation
 
@@ -1718,11 +1751,115 @@ Jessica is annoyed that Louis isn't jealous when her college boyfriend, Oscar, v
 
 #### 2.8.Place
 
+1. Delaware n. 特拉华州
+
 #### 2.9.Movies and TV series
 
 ### 3.Thinking
 
+#### 3.1.老外为啥用me做主语
+
+https://www.bilibili.com/video/av853458905/ 这个视频讲的非常不错
+
 ### 4.New words
+
+1. Opportunity n. 机会，时机
+2. Chipmunk n. 花栗鼠
+3. Property n. 所有物，财产；地产，房地产；<法律>所有权；特性，性质
+4. Rodent n. 啮齿目动物（如老鼠等）
+5. Roof n. 屋顶，车顶
+6. Brutal adj. 野蛮的，凶残的
+7. Statistically adv. 统计地
+8. Pronounce v. 发（音），读（音）
+9. Flier n. 飞行员；（美）广告传单
+10. Frog n. 蛙，青蛙
+11. Sewer n. 下水道，阴沟
+12. Superstitious adj. 迷信的
+13. Jade n. 玉，翡翠
+14. Spirit n. 精神，心灵；情绪；神灵；灵魂
+15. Generation n.  一代（人）
+16. Ability n. 能力
+17. Lately adv. 近来
+18. Mechanical adj. 机械（方面）的；机械般的
+19. Dub v. 把......称为，给......起绰号；<英>混合录音
+20. Squash n. 南瓜
+21. Puss n. 少女；猫咪
+22. Bootleg n. 盗版唱片（或录音带）
+23. Ponytail n. 马尾辫
+24. Counselor n. 顾问；咨询师
+25. Curriculum n. 课程
+26. Punishment n. 惩罚手段，处罚
+27. Hustle n. 忙碌，熙熙攘攘；<美，非正式>欺诈行为
+28. Positive n. 有势；正片；积极的；正面的
+29. Council n. 委员会，理事会
+30. Crowd v. 聚集，群集；靠近，盯着；催促
+31. Spacious adj. 宽敞的，无边无际的
+32. Dalmatian n. 达尔马西亚人
+33. Husky n. 爱斯基摩人
+34. Relate v. 联系，使有联系
+35. Ballot n. （无记名）投票选举，投票表决
+36. Appetite n. 食欲，胃口
+37. Budget n. 预算
+38. Insane adj. 疯癫的，精神失常的
+39. Champagne n. 香槟酒，香槟色
+40. Liquor n. 烈性酒；酒精类饮料
+41. Snicker n. 窃笑，吃吃的笑
+42. Crystal adj. 晶莹的，清澈透明的
+43. Commission n. 考察团；佣金，回扣；命令，委托
+44. Pedicure n. 修脚趾指甲术；足疗
+45. Taint v. 污染；玷污
+46. Glory n. 荣誉，光荣；值得称赞的事
+47. Mention v. 提到，谈到
+48. Detective n. 侦探
+49. Dip v. 蘸；下沉，下降
+50. Clam n. 蛤蜊
+51. Chowder n. 杂脍
+52. Cord n. 粗线
+53. Crotch n. 胯部，分叉处
+54. Hurtful adj. 伤感情的
+55. Rug n. 小地毯，垫子
+56. Fell n. 山（冈），丘陵
+57. Dreidel n. 陀螺
+58. Stance n. （公开发布的）观点，态度，立场
+59. Santa n. 圣诞老人
+60. Punch n. 一拳，一击；力量；打孔器
+61. Mascot n. 吉祥物
+62. Loggy adj. 呆呆的，迟缓的
+63. Graze v. 吃草；擦伤，擦破
+64. Recover v. 恢复
+65. Fighter n. 战士，斗士
+66. Hail v. 赞扬，欢呼
+67. Chief n. 领袖，首席，酋长
+68. Investigate v. 侦察（某事）
+69. Neglect n. 忽视，忽略，未被重视
+70. Wipe v. （用布、手等）擦干净，抹掉
+71. Injury n. （身体上的）伤，损害
+72. Sustain v. 维持，保持；维持......的生命；遭受，经受
+73. Raise v. 提起，举起；（使）直立，站立；提高，增加；抚养，养育
+74. Peek v. 偷看，窥视
+75. Conflict v. 冲突，抵触
+76. Machete n. 弯刀，大砍刀
+77. Jungle n. （热带）丛林；弱肉强食的地方
+78. Weapon n. 武器，兵器
+79. Election n. 选举
+80. Circumstance n. 条件，情况，环境
+81. Coincidence n. 巧合，同时发生
+82. Forearm n. 前臂
+83. Chain n. 链条
+84. Fallout n. 后果，余波
+85. Playfully adv. 开玩笑的
+86. Shoulder n. 肩膀
+87. Zodiac n. 黄道带，十二宫
+88. Ritual n. （宗教等的）仪式，典礼
+89. Concentrate v. 击中注意力，聚精会神
+90. Rid v. 使......去掉，使......去除；摆脱，消除
+91. Mug n. 马克杯
+92. Ceremony n. 仪式，典礼
+93. Chapter n. 章，回，篇
+94. Loophole n. （法律、合同等的）漏洞，空子
+95. Breakaway n. （体育比赛中的）突然进攻，转守为攻
+96. Tax n. 税款
+97. Rude adj. 粗鲁的，无礼的
 
 ## S1.E12 Dribbling Tiger, Bounce Pass Dragon
 
@@ -1751,6 +1888,8 @@ Jessica is annoyed that Louis isn't jealous when her college boyfriend, Oscar, v
 ### 3.Thinking
 
 ### 4.New words
+
+1. 
 
 ## S1.E13 So Chineez
 
