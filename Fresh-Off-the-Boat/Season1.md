@@ -192,133 +192,139 @@ do my math homework?你能帮我写数学作业吗？
 
 11. Neighborhood n. 街区
 
-12. Exotic adj. 奇异的，异国的
+12. Expect v. 期待
 
-13. Sorority n. 妇女联谊会
+13. Exotic adj. 奇异的，异国的
 
-14. Horrible adj. 可怕的
+14. Sorority n. 妇女联谊会
 
-15. Riptide n. 激流
+15. Horrible adj. 可怕的
 
-16. Accident n. （不幸的）意外遭遇；意外
+16. Riptide n. 激流
 
-17. Dedicate v. 致力于，献身于
+17. Accident n. （不幸的）意外遭遇；意外
 
-18. Anyway adv. 不管怎样
+18. Dedicate v. 致力于，献身于
 
-19. Rollerblading n. 单排滚轮旱冰鞋
+19. Section n. 部分，（书，报等的）节，栏；<美>一平方英里的土地
 
-20. Holler n. 叫喊
+20. Anyway adv. 不管怎样
 
-21. Cactus n. 仙人掌
+21. Rollerblading n. 单排滚轮旱冰鞋
 
-22. Spittoon n. 痰盂
+22. Holler n. 叫喊
 
-23. Authentic adj. 正宗的，真迹的
+23. Cactus n. 仙人掌
 
-24. Spur n. 马刺
+24. Spittoon n. 痰盂
 
-25. Technically adv. 技术上，严格根据法律意义地
+25. Authentic adj. 正宗的，真迹的
 
-26. Attract v. 吸引
+26. Spur n. 马刺
 
-27. Unorthodox adj. 非正统的
+27. Technically adv. 技术上，严格根据法律意义地
 
-28. Cafeteria n. 自助食堂
+28. Attract v. 吸引
 
-29. Sick adj. 生病的
+29. Unorthodox adj. 非正统的
 
-30. Ridiculous adj. 可笑的
+30. Cafeteria n. 自助食堂
 
-31. Cousin n. 堂（表）兄弟，堂（表）姐妹
+31. Sick adj. 生病的
 
-32. Gross adj. 令人恶心的
+32. Ridiculous adj. 可笑的
 
-33. Worm n. 蠕虫
+33. Cousin n. 堂（表）兄弟，堂（表）姐妹
 
-34. Nasty adj. 令人不快的，（气味等）难闻的
+34. Gross adj. 令人恶心的
 
-35. Mixtape n. 混音带
+35. Worm n. 蠕虫
 
-36. Stink n.  恶臭，难闻的气味
+36. Nasty adj. 令人不快的，（气味等）难闻的
 
-37. Janitor n. 看门人，门卫
+37. Mixtape n. 混音带
 
-38. Pretend v. 伪装
+38. Stink n.  恶臭，难闻的气味
 
-39. Baggie n. 塑料袋
+39. Janitor n. 看门人，门卫
 
-40. Poop n. 屎
+40. Pretend v. 伪装
 
-41. Hilarious adj. 很可笑的
+41. Baggie n. 塑料袋
 
-42. Alligator n. 短吻鳄
+42. Poop n. 屎
 
-43. Apparently adv. 据说，显然地
+43. Hilarious adj. 很可笑的
 
-44. Reject v. 拒绝
+44. Alligator n. 短吻鳄
 
-45. Chick n. 雏鸡，小妞儿
+45. Apparently adv. 据说，显然地
 
-46. Caucasian adj. 白种人的
+46. Reject v. 拒绝
 
-47. Patient adj. 有耐心的
+47. Tease v. 取笑，嘲笑；逗弄；挑逗，撩拨
 
-48. Yell v. 叫喊
+48. Chick n. 雏鸡，小妞儿
 
-49. Slot n. 狭槽
+49. Caucasian adj. 白种人的
 
-50. Represent v. 代表，象征，体现
+50. Patient adj. 有耐心的
 
-51. Filthy adj. 肮脏的，污秽的
+51. Yell v. 叫喊
 
-52. Poet n. 诗人
+52. Slot n. 狭槽
 
-53. Separate v. 分离
+53. Represent v. 代表，象征，体现
 
-54. Calm adj. 平静的
+54. Filthy adj. 肮脏的，污秽的
 
-55. Fiesta n. 嘉年华
+55. Poet n. 诗人
 
-56. Deejay n. 播放音乐的人
+56. Separate v. 分离
 
-57. Numerous adj. 众多的，许多的
+57. Calm adj. 平静的
 
-58. Nod n. 点头
+58. Fiesta n. 嘉年华
 
-59. Commercial adj. 商业的
+59. Deejay n. 播放音乐的人
 
-60. Interrupt v. 打断
+60. Numerous adj. 众多的，许多的
 
-61. Groin n. 腹股沟
+61. Nod n. 点头
 
-62. Shove v. 猛推
+62. Commercial adj. 商业的
 
-63. Pudding n. 布丁
+63. Interrupt v. 打断
 
-64. Unleash v. 释放出
+64. Groin n. 腹股沟
 
-65. Obscenity n. 污秽的语言
+65. Shove v. 猛推
 
-66. Offense n.  违法，过错，<正式>攻击，冒犯
+66. Pudding n. 布丁
 
-67. Upset adj. 不高兴的，心烦意乱的，不安
+67. Unleash v. 释放出
 
-68. Defend v. 保卫，维护，为......辩解
+68. Obscenity n. 污秽的语言
 
-69. Suspension n. 停学，暂停
+69. Offense n.  违法，过错，<正式>攻击，冒犯
 
-70. Suspend v. 暂停，中止
+70. Upset adj. 不高兴的，心烦意乱的，不安
 
-71. Sue v. 起诉
+71. Defend v. 保卫，维护，为......辩解
 
-72. Coupon n. 优惠券
+72. Suspension n. 停学，暂停
 
-73. Purchase n. <正式>购买，采购
+73. Suspend v. 暂停，中止
 
-74. Entree n. （餐厅里或正式宴会上的）主菜
+74. Sue v. 起诉
 
-75. Belong v. 适应，归属；应在......地方，应处于......状况
+75. Coupon n. 优惠券
+
+76. Purchase n. <正式>购买，采购
+
+77. Entree n. （餐厅里或正式宴会上的）主菜
+
+78. Belong v. 适应，归属；应在......地方，应处于......状况
 
 ### 5.复述剧情
 
@@ -374,11 +380,11 @@ Jessica thinks school must be too easy for the boys and gives them extra homewor
 
 #### 2.6.Food
 
-
+*Null* 
 
 #### 2.7.People
 
-
+*Null* 
 
 #### 2.8.Place
 
@@ -468,7 +474,7 @@ Jessica thinks school must be too easy for the boys and gives them extra homewor
 74. Inherently adv. 内在地，固有地
 75. Pump v. 用泵输送；快速上下
 76. Sneaker n. <美>球鞋，运动鞋
-77.  Appreciate v. 欣赏；理解；感激
+77. Appreciate v. 欣赏；理解；感激
 78. Admire v. 钦佩；欣赏
 79. Faith n. 信任，信心，信念
 80. Tutor v. 指导，辅导
@@ -480,6 +486,10 @@ Jessica thinks school must be too easy for the boys and gives them extra homewor
 86. Participatory adj. 参与式的
 87. Intensity n. 强烈，剧烈
 88. Hue n. 颜色，色调
+
+### 5.复述剧情
+
+校长召集家长们来学校开家长会，告知家长，最近社区周边有人向孩子们售卖含有毒品的卡通贴纸，请大家一定要小心并且学校也提高了安全措施，应对这一情况。但是妈妈杰西卡，只关心什么时间发考试成绩，从这一点来看，东亚人对教育的痴迷是刻在骨子里的，不管他们是身处国内还是国外。另一条线，由于餐馆生意不是很好，妈妈杰西卡开始在餐厅驻唱，并且插手员工们的工作，比如不允许南希给顾客多余的纸巾，堵住胡椒瓶的空，更是抓到了mitch偷吃面包块，弄得大家都人心惶惶。在奥兰多，白人家庭对孩子的成绩好坏并不是那么关心，甚至还为能够考到差的成绩沾沾自喜，这与杰西卡的价值观产生了强烈的对比。这次艾迪拿到考试结果后，向妈妈自信的宣布了他的成绩，想着妈妈应该给他一个鼓励。谁知道，妈妈杰西卡立马带着道找到校长，觉得他们学校的教学太容易的了，连艾迪都能考这么好，要安迪上课后的CLC，可是奥兰多的小学并没有CLC。妈妈杰西卡在餐厅里向爸爸路易斯吐槽的时候，聪明的路易斯就坡下驴，让她在家里给孩子们成立一个CLC，这样她就不会再来餐厅干扰他们的工作了。之后，爸爸的一句话，居然让大儿子艾迪给识破了。中国人很少直接了当的表达自己的情感。一般说“Love you”肯定是在隐瞒什么，艾迪回到餐厅果然看到了，没有杰西卡的餐厅是这么的欢乐，回去就告诉了妈妈。妈妈来到餐厅，跟爸爸起了冲突。爸爸认为，对待客户就要用善良去感动他们，不能太粗暴。但是面对事与愿违，虽然他已经跟要逃单的四个年轻人说了他的情况，但是最后还是被他们逃单了，最后还是妈妈杰西卡开车追上了这四个青年并制服了他们，让他们会餐厅买了单。这集最后，孩子们看到别人课后都在玩，而自己却在上CLC，心情很低落。但是，下班回家的爸爸，跟艾迪谈了心，告诉他，妈妈这么做是为我们这个家庭好。这集还有一个辅助线，就是Dave期盼爸爸的陪伴，但他的爸爸没有回来。这与一直生活在一起的艾迪一家形成了鲜明的对比。个人的感受是，东亚家长对教育的重视程度是深入骨髓的，不管到哪里都是这么的卷，看起来真的很不舒服，在他们认知里，排名，名校才是一切，甚至牺牲孩子们的个性。攀比，内卷非常严重。妈妈杰西卡是典型的东亚女性，对家庭有着无比的掌控力，孩子的教育要干涉，老公的生意也要干涉，虽然她的这种强势能解决一些眼前的问题，但是这种女权主义还是让我对杰西卡这个角色非常的厌恶。
 
 ## S1.E3 The Shunning
 
@@ -559,7 +569,7 @@ Louis urges the family to make new friends at a neighborhood block party. Eddie 
 
 3.1.
 
-#### 4.New words
+### 4.New words
 
 1. Urge v. 敦促；竭力主张
 2. Shun v. （故意）避开，躲开
@@ -630,6 +640,12 @@ Louis urges the family to make new friends at a neighborhood block party. Eddie 
 67. Dart n. 飞镖
 68. Slip v. 滑落，溜走，摆脱
 69. Ambulance n. 急救车
+
+### 5.复述剧情
+
+现在黄氏华人家庭开始融入社区了。安迪在学校被人操笑没有Air Jordan的鞋子，找妈妈要，妈妈觉得不贵，不给他买。他在想有什么办法可以改变同学们对他的看法呢？最终从他喜爱的歌手CD中找到了灵感，找一个辣妹，跟她来个拥抱肯定会让他们很吃惊。这样不就成了吗？社区正在举行一个社区大会，大家在一起看汽车比赛，分享美食和卡拉OK。爸爸路易斯觉得这是一次绝佳的广告机会，把餐厅做的美食分享给邻居。他们迎来了一个新邻居，马文的老婆非常年轻漂亮，爸爸路易斯一开始以为她是马文的女儿，真的是一场误会。妈妈杰西卡在融入姐妹邻居的事情并不顺利，他们都不太爱吃她做的臭豆腐。在一次，去社区便利店买东西时，两个女邻居相遇，他们都有着共同的爱好，看斯蒂文金的小说和电视剧。哈尼特别喜欢杰西卡做的美食，又都聊得来，杰西卡一下子觉得自己找到了知音。可是回家后，路易斯就告诉了她一个不好的消息。社区的姐妹团都非常抵制这个女人，觉得她是小三，把马文的前妻赶走了。杰西卡很纠结，但是在餐馆的生意和知己面前，作为势力的女性代表人，她果断的选择了餐馆生意。社区大会开始了，哈尼受到了大家的冷落，杰西卡心里也不是滋味。虽然，既然不能明说，就用唱歌的方式表达着对哈尼的友谊。最后，安迪也如愿的和哈尼拥抱让同学们都非常羡慕。这集最后，马文的女儿出场，一下子就吸引了安迪的目光。
+
+最后说一下我的感受。华人妈妈在对待孩子上确实看中的是成绩，对于孩子的 爱好过于的打压和不支持。Air Jordan 就是一个例子，没有妈妈的支持，爱面子的艾迪只能选择这种跟美女拥抱的方式来获得同学们的尊重。女人之前不管是国内和国外，讨论都是那种家长里短，原来美国社区也有那种村口大妈。杰西卡听到如果再跟honey好下去，会影响他们家生意的时候，毅然决然的作出了正确的选择，看来成年人的世界中，选择都是要有代价的，孰轻孰重本质上就是成本问题。而路易斯果然是做生意的料子，不抓住任何一个宣传自己餐厅的机会，即使儿子被飞镖击中也不忘记让救护车把儿子送到离自己餐厅较近的医院。路易斯是善良的，他的善良中有种小滑头，属于那种鬼精鬼精的。杰西卡是善良的，她的善良是把她的全部身心都投入到家庭中，家庭就是她的底线，只要是与家庭存在冲突，她会毫不犹豫的选择家庭，这是典型的东方思维。安迪是善良的，这种善良是一种成长的烦恼，在遇到妈妈不知道自己想法的时候，并没有一哭二闹三上吊，而是用自己孩子的方式去解决，从这点来看，安迪成年后也能做出属于他自己的成就和事业。
 
 ## S1.E4 Success Perm
 
@@ -773,6 +789,12 @@ Eddie's cousin introduces him to hip-hop, while the family is visited by Jessica
 75. Toothbrush n. 牙刷
 76. Raisin n. 葡萄干
 77. Prove v. 证实，证明
+
+### 5.复述剧情
+
+杰西卡一家已经搬到奥兰多一段时间了，逐渐的融入了这里的生活。住在华盛顿的妹妹打电话想过来看看他们。这对于杰西卡来说可不是好消息，但是有没有办法拒绝。所以，他们一家人都很焦虑。由于妹妹一家要来家里住，为了让他们感觉杰西卡一家在这里生活的还不错，一家人开始了紧张的布置。买了新的柠檬树，卫生间也打扫了一遍等，整个家里焕然一新。甚至在沙发下面撒一些零钱，让人感觉会是一个球迷。这里有两个现象，华人不管国内国外，与人比较的习惯是改不了的。从别人身上找优越感是他们体现生活品质的手段之一，而美国人的生活中对参与体育的热情的高低可以判断出这家人是否真正的有钱。一切准备就绪，还得再染个头发，才能体现身份。这是一场相互比较的会面，妹妹一家如约而至，妹妹隆了胸，而妹夫更是为了体现他买了新车，专门开他的新车过来，而且跟杰西卡，路易斯一样，也烫了头发。路易斯甚至在家安装了传真机，妹夫也不甘示弱，把电脑都搬过来了，在路易斯面前炫耀他的家具店的网站。妹夫的儿子比安迪大，是安迪进入Hip-pop的领路人，可是这次到了，孩子们感觉他的状态不对。原来是成长的烦恼，他现在已经不听黑人rap了，而是喜欢上白人rap那种很丧的风格，整个人都是那种颓废的样子。亲人大老远过来探望，作为东家肯定是要管吃管住的。但是自家的餐厅生意并不好，路易斯赶紧给Mitch打电话，让他想尽一切办法把餐厅营造的人多生意很好的样子。Mitch说，放心，刚才有一个大定，一家10口人的那种，路易斯赶紧提醒他，这个预定是他妹夫干的。从这里看出来，其实，妹夫已经早就知道他们的餐厅情况了。一大家子来到餐厅后，发现有那么几个人，原来是Mitch把厨师，服务员都假扮成顾客了，还请了他的演员朋友。妹夫早就料到这一点儿了，但是就是不说破。通过一个点菜，就让这个谎言暴漏了。妹夫问服务员Nancy是顾客还是工作人员是，Nancy一时语塞，无言以对。而杰西卡这边一直沉浸在跟妹妹比谁买的衣服最便宜的竞赛中，完全不知道发生了什么事儿。这下好了，摊派了。晚餐吃完回到家里，杰西卡，路易斯瘫倒在床上，感觉无比的疲惫。第二天，妹夫的新车不见了，报警后得到的回复是他的车贷逾期了，车给拖走了。一家人并不知道这台新车是贷款买的，在跟社区警察交流中得知，他是日本车的爱好者，明确妹夫的这台车已经停产了，这是一台二手车。当他的猜测得到佐证后，旁边的路易斯发出来胜利般的欢呼。而妹妹和他的儿子都接受不了自己家没有钱的事实。看来，不管是生活在华盛顿DC社区的亲人还是奥兰多的杰西卡一家，生活都是不尽如人意。当大家都卸掉伪装，反而让大家的心跟近了。最后，妹妹离开的时候，路易斯和妹夫之间的隔阂也给说开了。
+
+最后，做一个简单的体会吧。这一集真的把华人的那种人际关系体现的淋漓尽致。越是最亲近的人，越是见不得你过得比他好。时时刻刻都在PUA你，大家外面都有着一种壳，希望通过击碎别人的壳获取自己的优越感。但结局还是很善意的，毕竟都已经在西方社会生存了，要学着适应并融入进去，只要真实并真诚的沟通，终究会收获对方真心的祝福和协助。
 
 ## S1.E5 Persistent Romeo
 
@@ -1693,24 +1715,23 @@ Jessica is annoyed that Louis isn't jealous when her college boyfriend, Oscar, v
 52. Rapid n. 急流，湍滩
 53. Misunderstand v. 误会，误解
 54. Dessert n. （正餐后的）甜点
-55. Expect v. 期待
-56. Humiliate v. 羞辱，使蒙羞
-57. Crust n. 面包皮，地壳
-58. Cough v. 咳嗽
-59. Torso n. 躯干
-60. Limb n. 肢；大树枝
-61. Glitter n. 闪耀，闪光，闪亮
-62. Gladly adv. 乐意地，高兴地
-63. Costume n. 服装，装束
-64. Confident adj. （性格，态度）自信的，充满信心的
-65. Pastry n. 油酥面团；酥皮蛋糕
-66. Sperm n. 精子
-67. Tired adj.  疲倦的，累的
-68. Bother v. 费心；（使）烦恼
-69. Closet n.  壁橱
-70. Suspect v.  猜想，认为；怀疑......有罪
-71. Calculator n. 计算器
-72. Dairy n. 乳制品
+55. Humiliate v. 羞辱，使蒙羞
+56. Crust n. 面包皮，地壳
+57. Cough v. 咳嗽
+58. Torso n. 躯干
+59. Limb n. 肢；大树枝
+60. Glitter n. 闪耀，闪光，闪亮
+61. Gladly adv. 乐意地，高兴地
+62. Costume n. 服装，装束
+63. Confident adj. （性格，态度）自信的，充满信心的
+64. Pastry n. 油酥面团；酥皮蛋糕
+65. Sperm n. 精子
+66. Tired adj.  疲倦的，累的
+67. Bother v. 费心；（使）烦恼
+68. Closet n.  壁橱
+69. Suspect v.  猜想，认为；怀疑......有罪
+70. Calculator n. 计算器
+71. Dairy n. 乳制品
 
 ## S1.E11 Very Superstitious
 
@@ -1941,44 +1962,43 @@ Louis and Jessica get pressured into volunteering at the kids' schools because o
 10. Waist n. 腰，腰围
 11. Mystic adj. 神秘的；神秘主义的
 12. Rehearsal n. 排练，排演
-13. Represent v. 代表；为......代言（辩护）
-14. Offend v. 得罪，冒犯；令人不悦
-15. Diversity n. 多样化，多样性
-16. Drill n. 训练，演习；钻机
-17. Bounce v. 弹跳，弹起
-18. Faithful n. 忠实的，忠诚的
-19. Guardian n. 守卫者
-20. Lane n. （乡间）小路；（比赛的）跑道，泳道，航道
-21. Stubborn adj. 固执的，倔强的
-22. Goat n. 山羊；<美，非正式>替罪羊
-23. Fundamental adj. 根本的，基本的
-24. Sponsor n. 赞助者，赞助商
-25. Wristband n. 腕带，腕套
-26. Goggle n. 护目镜
-27. Valid adj. 有效的，正当的，合理的
-28. Pursuit n. 追求，寻找；继续；追逐
-29. Uniform n. 制服，校服
-30. Bleach v. 漂白，使褪色
-31. Bald adj. 秃头的，光秃的，不加修饰的
-32. Gumdrop n. 橡皮软糖
-33. Improvisation n. 即兴创作
-34. Whistle n. 哨子，口哨声
-35. Preparation n. 准备；准备工作
-36. Prep v.  <美，非正式>把......准备好，使预备好
-37. Tale n. 故事，传说
-38. Dunk n. 扣篮，灌篮
-39. Layup n. 带球上篮
-40. Unstoppable adj. 无法阻挡的
-41. Spanking n. 打屁股，拍击
-42. Ref abbr. 裁判
-43. Mercy n. 仁慈，宽恕
-44. Foul n. 犯规
-45. Chore n. 家庭杂务，杂活；累活，苦差事
-46. Brittle adj. 易碎的，脆的
-47. Comb n. 梳子
-48. Braid n. 辫子
-49. Tissue n. 纸巾，面巾纸
-50. Application n. 正式申请，书面申请；申请书，申请表；应用
+13. Offend v. 得罪，冒犯；令人不悦
+14. Diversity n. 多样化，多样性
+15. Drill n. 训练，演习；钻机
+16. Bounce v. 弹跳，弹起
+17. Faithful n. 忠实的，忠诚的
+18. Guardian n. 守卫者
+19. Lane n. （乡间）小路；（比赛的）跑道，泳道，航道
+20. Stubborn adj. 固执的，倔强的
+21. Goat n. 山羊；<美，非正式>替罪羊
+22. Fundamental adj. 根本的，基本的
+23. Sponsor n. 赞助者，赞助商
+24. Wristband n. 腕带，腕套
+25. Goggle n. 护目镜
+26. Valid adj. 有效的，正当的，合理的
+27. Pursuit n. 追求，寻找；继续；追逐
+28. Uniform n. 制服，校服
+29. Bleach v. 漂白，使褪色
+30. Bald adj. 秃头的，光秃的，不加修饰的
+31. Gumdrop n. 橡皮软糖
+32. Improvisation n. 即兴创作
+33. Whistle n. 哨子，口哨声
+34. Preparation n. 准备；准备工作
+35. Prep v.  <美，非正式>把......准备好，使预备好
+36. Tale n. 故事，传说
+37. Dunk n. 扣篮，灌篮
+38. Layup n. 带球上篮
+39. Unstoppable adj. 无法阻挡的
+40. Spanking n. 打屁股，拍击
+41. Ref abbr. 裁判
+42. Mercy n. 仁慈，宽恕
+43. Foul n. 犯规
+44. Chore n. 家庭杂务，杂活；累活，苦差事
+45. Brittle adj. 易碎的，脆的
+46. Comb n. 梳子
+47. Braid n. 辫子
+48. Tissue n. 纸巾，面巾纸
+49. Application n. 正式申请，书面申请；申请书，申请表；应用
 
 ## S1.E13 So Chineez
 
